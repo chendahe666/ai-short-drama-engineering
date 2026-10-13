@@ -1,0 +1,653 @@
+{
+  "version": "0.1.0",
+  "chapters": [
+    {
+      "id": "B01-C01",
+      "lang": "zh",
+      "title": "第一章　先定义我们到底在做什么",
+      "source": "manuscript/zh/01-market-research.md",
+      "path": "book/zh/01-market-research/01.md",
+      "html": "zh/01-market-research/01.html",
+      "content_sha256": "e0d6121480b0903e571d4cbb9dba9e496dfac0e48fee36f679d6f0290b3515dd"
+    },
+    {
+      "id": "B01-C02",
+      "lang": "zh",
+      "title": "第二章　比较市场，要比较同一种单位",
+      "source": "manuscript/zh/01-market-research.md",
+      "path": "book/zh/01-market-research/02.md",
+      "html": "zh/01-market-research/02.html",
+      "content_sha256": "bd2ae5e15235ba244a6f3aefcb6468fa47c3701f2d3c1433ff3d3418f10f82a5"
+    },
+    {
+      "id": "B01-C03",
+      "lang": "zh",
+      "title": "第三章　把检索做成可追溯的证据链",
+      "source": "manuscript/zh/01-market-research.md",
+      "path": "book/zh/01-market-research/03.md",
+      "html": "zh/01-market-research/03.html",
+      "content_sha256": "65c1a72d036af8ae9203256300fe09eb627c7b3c1ffe43a33e45077a485ee941"
+    },
+    {
+      "id": "B01-C04",
+      "lang": "zh",
+      "title": "第四章　读社区评论：理解问题，不替观众投票",
+      "source": "manuscript/zh/01-market-research.md",
+      "path": "book/zh/01-market-research/04.md",
+      "html": "zh/01-market-research/04.html",
+      "content_sha256": "8c725790960a164ffc3ff6624b11ed725e5b94016bb24bd6db9e456b2428fe21"
+    },
+    {
+      "id": "B01-C05",
+      "lang": "zh",
+      "title": "第五章　原则遇到反例时怎样修订",
+      "source": "manuscript/zh/01-market-research.md",
+      "path": "book/zh/01-market-research/05.md",
+      "html": "zh/01-market-research/05.html",
+      "content_sha256": "fb24be979b76c544db6e8734b37b5efbc1b6f4ab07f62f8c6957a06213cfa425"
+    },
+    {
+      "id": "B01-C06",
+      "lang": "zh",
+      "title": "第六章　从研究进入可执行的选题决定",
+      "source": "manuscript/zh/01-market-research.md",
+      "path": "book/zh/01-market-research/06.md",
+      "html": "zh/01-market-research/06.html",
+      "content_sha256": "014f3e24d641eb0c5260d056237ef5fd944864ba0813e3f94683cdb18ad3768e"
+    },
+    {
+      "id": "B02-C01",
+      "lang": "zh",
+      "title": "第一章：先确定观众希望得到什么",
+      "source": "manuscript/zh/02-story-adaptation.md",
+      "path": "book/zh/02-story-adaptation/01.md",
+      "html": "zh/02-story-adaptation/01.html",
+      "content_sha256": "54d0bd61bf7d8fd5f2b2b427bcc0ab9a07cccfa4902004b223672bc2c21eaa29"
+    },
+    {
+      "id": "B02-C02",
+      "lang": "zh",
+      "title": "第二章：人物通过选择推动因果",
+      "source": "manuscript/zh/02-story-adaptation.md",
+      "path": "book/zh/02-story-adaptation/02.md",
+      "html": "zh/02-story-adaptation/02.html",
+      "content_sha256": "1d73a18b3e65e4915e9da3af2053956d424fa3a32cda9aae8c25adf2a2c3f4e0"
+    },
+    {
+      "id": "B02-C03",
+      "lang": "zh",
+      "title": "第三章：节拍与分集是不同层级",
+      "source": "manuscript/zh/02-story-adaptation.md",
+      "path": "book/zh/02-story-adaptation/03.md",
+      "html": "zh/02-story-adaptation/03.html",
+      "content_sha256": "24efc6193fbee43fe86420f808051f384665297c3d65010a96635c927c6ce48f"
+    },
+    {
+      "id": "B02-C04",
+      "lang": "zh",
+      "title": "第四章：开场要迅速建立意义",
+      "source": "manuscript/zh/02-story-adaptation.md",
+      "path": "book/zh/02-story-adaptation/04.md",
+      "html": "zh/02-story-adaptation/04.html",
+      "content_sha256": "56abea2049698774cdc94f7bdc275d5abca41c58d6efe0d517a5dc5e744dc12d"
+    },
+    {
+      "id": "B02-C05",
+      "lang": "zh",
+      "title": "第五章：改编要保留可说明的映射",
+      "source": "manuscript/zh/02-story-adaptation.md",
+      "path": "book/zh/02-story-adaptation/05.md",
+      "html": "zh/02-story-adaptation/05.html",
+      "content_sha256": "346e118dffdcb434bd6aa444ea4dc8e5139c981165a7bcc19e2db0c433724f91"
+    },
+    {
+      "id": "B02-C06",
+      "lang": "zh",
+      "title": "第六章：剧本如何进入迭代",
+      "source": "manuscript/zh/02-story-adaptation.md",
+      "path": "book/zh/02-story-adaptation/06.md",
+      "html": "zh/02-story-adaptation/06.html",
+      "content_sha256": "50e01b35cbf9bc0070ddfb2141aae73aae9aae4892ee71d1f28c3ff75e545a3a"
+    },
+    {
+      "id": "B03-C01",
+      "lang": "zh",
+      "title": "第一章：先写这一镜的用途",
+      "source": "manuscript/zh/03-directing-audiovisual.md",
+      "path": "book/zh/03-directing-audiovisual/01.md",
+      "html": "zh/03-directing-audiovisual/01.html",
+      "content_sha256": "d04e71af514d5235f5b93f67b82ef6ac9c1851e33b67295b0e4b621bf679219e"
+    },
+    {
+      "id": "B03-C02",
+      "lang": "zh",
+      "title": "第二章：场景是一套空间与状态",
+      "source": "manuscript/zh/03-directing-audiovisual.md",
+      "path": "book/zh/03-directing-audiovisual/02.md",
+      "html": "zh/03-directing-audiovisual/02.html",
+      "content_sha256": "fa8db46be11ca2e909d21985206ee888b5994689beaf2d09ebc871e93588a2b9"
+    },
+    {
+      "id": "B03-C03",
+      "lang": "zh",
+      "title": "第三章：表演、构图与镜长一起设计",
+      "source": "manuscript/zh/03-directing-audiovisual.md",
+      "path": "book/zh/03-directing-audiovisual/03.md",
+      "html": "zh/03-directing-audiovisual/03.html",
+      "content_sha256": "591677a5b75b695d85cf119b52520ac96a8ec367f999bcfda6c9f014afb5481f"
+    },
+    {
+      "id": "B03-C04",
+      "lang": "zh",
+      "title": "第四章：声音承担信息和空间",
+      "source": "manuscript/zh/03-directing-audiovisual.md",
+      "path": "book/zh/03-directing-audiovisual/04.md",
+      "html": "zh/03-directing-audiovisual/04.html",
+      "content_sha256": "7b17053e49e9fadb48c51cd2826ae8683d43b3b52ac7a45d860f568c403e79b4"
+    },
+    {
+      "id": "B03-C05",
+      "lang": "zh",
+      "title": "第五章：剪辑与字幕是最终叙事",
+      "source": "manuscript/zh/03-directing-audiovisual.md",
+      "path": "book/zh/03-directing-audiovisual/05.md",
+      "html": "zh/03-directing-audiovisual/05.html",
+      "content_sha256": "c7f91281623955f0aba295f1013fe06c34dcce8ab2102a213f347b5a1ab5a975"
+    },
+    {
+      "id": "B03-C06",
+      "lang": "zh",
+      "title": "第六章：场景问题如何被诊断",
+      "source": "manuscript/zh/03-directing-audiovisual.md",
+      "path": "book/zh/03-directing-audiovisual/06.md",
+      "html": "zh/03-directing-audiovisual/06.html",
+      "content_sha256": "485d17638d5a54be9b6222693c46f3b018db74460cef79ef2cee9ac5f7487f37"
+    },
+    {
+      "id": "B04-C01",
+      "lang": "zh",
+      "title": "第一章：先规定交付什么，再决定用什么工具",
+      "source": "manuscript/zh/04-production-engineering.md",
+      "path": "book/zh/04-production-engineering/01.md",
+      "html": "zh/04-production-engineering/01.html",
+      "content_sha256": "59586b21361c983dcf3cc775b7a7a9e8f4339416be103776ed80c28d9ddc599f"
+    },
+    {
+      "id": "B04-C02",
+      "lang": "zh",
+      "title": "第二章：工具是工种，技能是工作说明",
+      "source": "manuscript/zh/04-production-engineering.md",
+      "path": "book/zh/04-production-engineering/02.md",
+      "html": "zh/04-production-engineering/02.html",
+      "content_sha256": "21f921eff6828a80fde57642491eae7db5c4aff62671bf80459622c27cfbb894"
+    },
+    {
+      "id": "B04-C03",
+      "lang": "zh",
+      "title": "第三章：连续性是状态管理，不只是同一张脸",
+      "source": "manuscript/zh/04-production-engineering.md",
+      "path": "book/zh/04-production-engineering/03.md",
+      "html": "zh/04-production-engineering/03.html",
+      "content_sha256": "a4d6d4ee380f1a857c955a27f0cfba5c77971819e1ba78190905e6fb3e38c0c7"
+    },
+    {
+      "id": "B04-C04",
+      "lang": "zh",
+      "title": "第四章：每次生成都是一笔可追踪的生产交易",
+      "source": "manuscript/zh/04-production-engineering.md",
+      "path": "book/zh/04-production-engineering/04.md",
+      "html": "zh/04-production-engineering/04.html",
+      "content_sha256": "176746abb9bb92638da81ea8408a9158936e9d4aa6b5843ee70bfb33398a7110"
+    },
+    {
+      "id": "B04-C05",
+      "lang": "zh",
+      "title": "第五章：剪辑把素材变成事件",
+      "source": "manuscript/zh/04-production-engineering.md",
+      "path": "book/zh/04-production-engineering/05.md",
+      "html": "zh/04-production-engineering/05.html",
+      "content_sha256": "eda5903e4c82ffc60253ffa029e402dd3fb312423cf1afd0ff12603f1474a4f8"
+    },
+    {
+      "id": "B04-C06",
+      "lang": "zh",
+      "title": "第六章：验收台账与回归，让迭代留下知识",
+      "source": "manuscript/zh/04-production-engineering.md",
+      "path": "book/zh/04-production-engineering/06.md",
+      "html": "zh/04-production-engineering/06.html",
+      "content_sha256": "d4a1cacb6b431ce2bc4cb13df6f1d789b811e1680c2fdb272f8613de2a409263"
+    },
+    {
+      "id": "B05-C01",
+      "lang": "zh",
+      "title": "第一章　先弄清楚谁向谁付钱",
+      "source": "manuscript/zh/05-distribution-economics.md",
+      "path": "book/zh/05-distribution-economics/01.md",
+      "html": "zh/05-distribution-economics/01.html",
+      "content_sha256": "5f5ee0c5203aacb2dad10766cc5f0c8e6fd238d1789c3bbbd301e7105707f135"
+    },
+    {
+      "id": "B05-C02",
+      "lang": "zh",
+      "title": "第二章　成本按合格交付计，不按生成按钮计",
+      "source": "manuscript/zh/05-distribution-economics.md",
+      "path": "book/zh/05-distribution-economics/02.md",
+      "html": "zh/05-distribution-economics/02.html",
+      "content_sha256": "0a01a21a3bb852beff11acb0eaf35795f10e29ee42683414fafa71eb279a0356"
+    },
+    {
+      "id": "B05-C03",
+      "lang": "zh",
+      "title": "第三章　从平台流水到自己可用的钱",
+      "source": "manuscript/zh/05-distribution-economics.md",
+      "path": "book/zh/05-distribution-economics/03.md",
+      "html": "zh/05-distribution-economics/03.html",
+      "content_sha256": "9440f3c1c5021996df6a1698cf86b79bafb9ccffe5ac14c92fc925e98460f739"
+    },
+    {
+      "id": "B05-C04",
+      "lang": "zh",
+      "title": "第四章　把“我们觉得更好”变成可检验比较",
+      "source": "manuscript/zh/05-distribution-economics.md",
+      "path": "book/zh/05-distribution-economics/04.md",
+      "html": "zh/05-distribution-economics/04.html",
+      "content_sha256": "310902be4a11658e7ed0871bab1069a71d0db2a59737fb1c25973a7890716b0d"
+    },
+    {
+      "id": "B05-C05",
+      "lang": "zh",
+      "title": "第五章　发行是一套交付，不是点上传",
+      "source": "manuscript/zh/05-distribution-economics.md",
+      "path": "book/zh/05-distribution-economics/05.md",
+      "html": "zh/05-distribution-economics/05.html",
+      "content_sha256": "07f0cfc9fdca05b0d2ba338f3a90f9d1089e7f144977a71248bf45a64e5f29a8"
+    },
+    {
+      "id": "B05-C06",
+      "lang": "zh",
+      "title": "第六章　让结果指导下一轮，不让好看的数字接管决定",
+      "source": "manuscript/zh/05-distribution-economics.md",
+      "path": "book/zh/05-distribution-economics/06.md",
+      "html": "zh/05-distribution-economics/06.html",
+      "content_sha256": "dc7bf175d681bea7b599ba947e954b908252974f277b56ce9eb65991f3e1a1d7"
+    },
+    {
+      "id": "B06-C01",
+      "lang": "zh",
+      "title": "第一章　规则有不同强度",
+      "source": "manuscript/zh/06-cases-standardization.md",
+      "path": "book/zh/06-cases-standardization/01.md",
+      "html": "zh/06-cases-standardization/01.html",
+      "content_sha256": "a37974ebefad34d5c030d0c815e19083af85bad2e91ec8c9d9c1228a3cd2fb80"
+    },
+    {
+      "id": "B06-C02",
+      "lang": "zh",
+      "title": "第二章　已有知识先查什么",
+      "source": "manuscript/zh/06-cases-standardization.md",
+      "path": "book/zh/06-cases-standardization/02.md",
+      "html": "zh/06-cases-standardization/02.html",
+      "content_sha256": "3f92a86d5db4302b09cb65ff0ae596f4df2f85b4b390883ca8b93b716de5e05b"
+    },
+    {
+      "id": "B06-C03",
+      "lang": "zh",
+      "title": "第三章　真实品牌案例怎样进入教材",
+      "source": "manuscript/zh/06-cases-standardization.md",
+      "path": "book/zh/06-cases-standardization/03.md",
+      "html": "zh/06-cases-standardization/03.html",
+      "content_sha256": "122ed349c25cb259e68efaf7a5d17cb62eebbf7999ab8549e86c24584f47e3e5"
+    },
+    {
+      "id": "B06-C04",
+      "lang": "zh",
+      "title": "第四章　从评论到原则，中间要有检验",
+      "source": "manuscript/zh/06-cases-standardization.md",
+      "path": "book/zh/06-cases-standardization/04.md",
+      "html": "zh/06-cases-standardization/04.html",
+      "content_sha256": "b83905204b16495313cca73ebfe9e199d66d53d97811ac4ad518d4841e0b66b7"
+    },
+    {
+      "id": "B06-C05",
+      "lang": "zh",
+      "title": "第五章　把原则写成标准提案",
+      "source": "manuscript/zh/06-cases-standardization.md",
+      "path": "book/zh/06-cases-standardization/05.md",
+      "html": "zh/06-cases-standardization/05.html",
+      "content_sha256": "65aa4161f17d640829859dda9a0debc8836e6f0d9ac1a8eba339e75fd6020b2e"
+    },
+    {
+      "id": "B06-C06",
+      "lang": "zh",
+      "title": "第六章　审查量表与综合实践",
+      "source": "manuscript/zh/06-cases-standardization.md",
+      "path": "book/zh/06-cases-standardization/06.md",
+      "html": "zh/06-cases-standardization/06.html",
+      "content_sha256": "5dfaf25dce4e1406cb804ab4703b23c08fb65a3f3cd57caf5981542631c53eb1"
+    },
+    {
+      "id": "B01-C01",
+      "lang": "en",
+      "title": "Chapter 1: Define What We Are Actually Making",
+      "source": "manuscript/en/01-market-research.md",
+      "path": "book/en/01-market-research/01.md",
+      "html": "en/01-market-research/01.html",
+      "content_sha256": "2ee2b8dcf0a56d5e145c49231386773dcb79714e41390cb76cf6d85b172c09ca"
+    },
+    {
+      "id": "B01-C02",
+      "lang": "en",
+      "title": "Chapter 2: Compare Markets Using Comparable Units",
+      "source": "manuscript/en/01-market-research.md",
+      "path": "book/en/01-market-research/02.md",
+      "html": "en/01-market-research/02.html",
+      "content_sha256": "da6add95c39c0baa15c27e02bf227b24aaae0a6d129ea05b4b37e28982b4e144"
+    },
+    {
+      "id": "B01-C03",
+      "lang": "en",
+      "title": "Chapter 3: Turn Search into a Traceable Evidence Chain",
+      "source": "manuscript/en/01-market-research.md",
+      "path": "book/en/01-market-research/03.md",
+      "html": "en/01-market-research/03.html",
+      "content_sha256": "5a5c1e9e9c2a435d633f5e791e46b9860693d9e64d144123a651b812949d49b9"
+    },
+    {
+      "id": "B01-C04",
+      "lang": "en",
+      "title": "Chapter 4: Read Community Comments to Understand Problems, Not to Vote on Behalf of Viewers",
+      "source": "manuscript/en/01-market-research.md",
+      "path": "book/en/01-market-research/04.md",
+      "html": "en/01-market-research/04.html",
+      "content_sha256": "5e748ad4cf139dd48d7f475caeb6f368560e355fd91305e66cacc63a14ac605a"
+    },
+    {
+      "id": "B01-C05",
+      "lang": "en",
+      "title": "Chapter 5: Revise Principles When Counterexamples Appear",
+      "source": "manuscript/en/01-market-research.md",
+      "path": "book/en/01-market-research/05.md",
+      "html": "en/01-market-research/05.html",
+      "content_sha256": "6b52dbdfb119f2f3b6dfde4c159052ad54036ebd2cef8ba82dad437ae3691f94"
+    },
+    {
+      "id": "B01-C06",
+      "lang": "en",
+      "title": "Chapter 6: Turn Research into an Actionable Project Decision",
+      "source": "manuscript/en/01-market-research.md",
+      "path": "book/en/01-market-research/06.md",
+      "html": "en/01-market-research/06.html",
+      "content_sha256": "68c69ec514a9661a3d756f3acf3dfd668feafe0902b5a1309b39cfa0f92a57c3"
+    },
+    {
+      "id": "B02-C01",
+      "lang": "en",
+      "title": "Chapter 1: Identify What Viewers Hope to Get",
+      "source": "manuscript/en/02-story-adaptation.md",
+      "path": "book/en/02-story-adaptation/01.md",
+      "html": "en/02-story-adaptation/01.html",
+      "content_sha256": "4e0336df01ab82b6103e6a0ae21eb1f6d1fa226dccfd52c9668c414469513e85"
+    },
+    {
+      "id": "B02-C02",
+      "lang": "en",
+      "title": "Chapter 2: Characters Drive Causality Through Choices",
+      "source": "manuscript/en/02-story-adaptation.md",
+      "path": "book/en/02-story-adaptation/02.md",
+      "html": "en/02-story-adaptation/02.html",
+      "content_sha256": "a7c77596195a5be0aca68d55962372cad67fd328f1742456630be5524c7ec982"
+    },
+    {
+      "id": "B02-C03",
+      "lang": "en",
+      "title": "Chapter 3: Beats and Episodes Operate at Different Levels",
+      "source": "manuscript/en/02-story-adaptation.md",
+      "path": "book/en/02-story-adaptation/03.md",
+      "html": "en/02-story-adaptation/03.html",
+      "content_sha256": "8b72ab98e5c87e641b57da1567d67537731ee188f08b27592cb96f309623fafa"
+    },
+    {
+      "id": "B02-C04",
+      "lang": "en",
+      "title": "Chapter 4: The Opening Should Establish Meaning Quickly",
+      "source": "manuscript/en/02-story-adaptation.md",
+      "path": "book/en/02-story-adaptation/04.md",
+      "html": "en/02-story-adaptation/04.html",
+      "content_sha256": "bf94ac7651a969ff25c6a6b9158e5272a6aeafd44abd1b5e0c48af4d83101f0c"
+    },
+    {
+      "id": "B02-C05",
+      "lang": "en",
+      "title": "Chapter 5: Keep an Explainable Mapping in Adaptation",
+      "source": "manuscript/en/02-story-adaptation.md",
+      "path": "book/en/02-story-adaptation/05.md",
+      "html": "en/02-story-adaptation/05.html",
+      "content_sha256": "79100cf983d7b6d9971ff3ff8ff56345f854977cc750ac6aafc70ca5922710fc"
+    },
+    {
+      "id": "B02-C06",
+      "lang": "en",
+      "title": "Chapter 6: Bring the Script into an Iteration Process",
+      "source": "manuscript/en/02-story-adaptation.md",
+      "path": "book/en/02-story-adaptation/06.md",
+      "html": "en/02-story-adaptation/06.html",
+      "content_sha256": "7a9684df76df0211b1d34171cbe12692b1afe13f89b4ed638fc39f0b26c722d0"
+    },
+    {
+      "id": "B03-C01",
+      "lang": "en",
+      "title": "Chapter 1: State the Purpose of the Shot First",
+      "source": "manuscript/en/03-directing-audiovisual.md",
+      "path": "book/en/03-directing-audiovisual/01.md",
+      "html": "en/03-directing-audiovisual/01.html",
+      "content_sha256": "3e6cba2e6cbb9b3accf769de39326c9a0e4b293c6262178950bc5cae80ae8f7a"
+    },
+    {
+      "id": "B03-C02",
+      "lang": "en",
+      "title": "Chapter 2: A Scene Is a System of Space and States",
+      "source": "manuscript/en/03-directing-audiovisual.md",
+      "path": "book/en/03-directing-audiovisual/02.md",
+      "html": "en/03-directing-audiovisual/02.html",
+      "content_sha256": "776122a19e2ce1060419c92289835c3c90fcbeac21f08eac6027b5f614623460"
+    },
+    {
+      "id": "B03-C03",
+      "lang": "en",
+      "title": "Chapter 3: Design Performance, Composition, and Shot Length Together",
+      "source": "manuscript/en/03-directing-audiovisual.md",
+      "path": "book/en/03-directing-audiovisual/03.md",
+      "html": "en/03-directing-audiovisual/03.html",
+      "content_sha256": "18406a923f7f49ff89d1a007fbbfef00ef4d6e4c38ccf0c4fa10ec7401cb0c4b"
+    },
+    {
+      "id": "B03-C04",
+      "lang": "en",
+      "title": "Chapter 4: Sound Carries Information and Establishes Space",
+      "source": "manuscript/en/03-directing-audiovisual.md",
+      "path": "book/en/03-directing-audiovisual/04.md",
+      "html": "en/03-directing-audiovisual/04.html",
+      "content_sha256": "dffede5cbca623783b58101ff3cabfdfff79ea02fd9af3d5cec3cfe43b99c6aa"
+    },
+    {
+      "id": "B03-C05",
+      "lang": "en",
+      "title": "Chapter 5: Editing and Subtitles Shape the Final Narrative",
+      "source": "manuscript/en/03-directing-audiovisual.md",
+      "path": "book/en/03-directing-audiovisual/05.md",
+      "html": "en/03-directing-audiovisual/05.html",
+      "content_sha256": "e983237f1c0e9008ddbbe6cac553171d4a063c1185145e170fc1e2bd5986f89a"
+    },
+    {
+      "id": "B03-C06",
+      "lang": "en",
+      "title": "Chapter 6: Diagnosing Problems in a Scene",
+      "source": "manuscript/en/03-directing-audiovisual.md",
+      "path": "book/en/03-directing-audiovisual/06.md",
+      "html": "en/03-directing-audiovisual/06.html",
+      "content_sha256": "f725fe9fb8c5fe4a2147d3c9a997917706fd2a04780a8963dd9ad6de5d1de49d"
+    },
+    {
+      "id": "B04-C01",
+      "lang": "en",
+      "title": "Chapter 1: Define the Deliverable Before Choosing the Tools",
+      "source": "manuscript/en/04-production-engineering.md",
+      "path": "book/en/04-production-engineering/01.md",
+      "html": "en/04-production-engineering/01.html",
+      "content_sha256": "40e1df5cd7cfd1b06e128f60ce1d3f3eb7091685fa2c08da3809cf042f52d8bd"
+    },
+    {
+      "id": "B04-C02",
+      "lang": "en",
+      "title": "Chapter 2: Tools Perform Jobs; Skills Describe the Work",
+      "source": "manuscript/en/04-production-engineering.md",
+      "path": "book/en/04-production-engineering/02.md",
+      "html": "en/04-production-engineering/02.html",
+      "content_sha256": "ee905aefe96172deb4e88934a872d3fefda21075e03a378d00fee958918dcaac"
+    },
+    {
+      "id": "B04-C03",
+      "lang": "en",
+      "title": "Chapter 3: Continuity Is State Management, Not Just the Same Face",
+      "source": "manuscript/en/04-production-engineering.md",
+      "path": "book/en/04-production-engineering/03.md",
+      "html": "en/04-production-engineering/03.html",
+      "content_sha256": "4f234b94324af9681b4090f3e75c6b796c5d89de031afac5645d392bd439e731"
+    },
+    {
+      "id": "B04-C04",
+      "lang": "en",
+      "title": "Chapter 4: Every Generation Is a Traceable Production Transaction",
+      "source": "manuscript/en/04-production-engineering.md",
+      "path": "book/en/04-production-engineering/04.md",
+      "html": "en/04-production-engineering/04.html",
+      "content_sha256": "021cdbd2a3922ed077dab32c08ef39a33d5f8cca9980c5503d1ba9f22b57461a"
+    },
+    {
+      "id": "B04-C05",
+      "lang": "en",
+      "title": "Chapter 5: Editing Turns Material into Events",
+      "source": "manuscript/en/04-production-engineering.md",
+      "path": "book/en/04-production-engineering/05.md",
+      "html": "en/04-production-engineering/05.html",
+      "content_sha256": "3d9ac6c5c06ca0b84cbdfc8f67a3d20e5d469ad7941817b6729f652d7d41ebaa"
+    },
+    {
+      "id": "B04-C06",
+      "lang": "en",
+      "title": "Chapter 6: Acceptance Ledgers and Regression Turn Iteration into Knowledge",
+      "source": "manuscript/en/04-production-engineering.md",
+      "path": "book/en/04-production-engineering/06.md",
+      "html": "en/04-production-engineering/06.html",
+      "content_sha256": "7dc5fd9ebc540970baa629f2837fb0d85a0e34acd8e5fae7dccedf57ba5a6ed7"
+    },
+    {
+      "id": "B05-C01",
+      "lang": "en",
+      "title": "Chapter 1: Establish Who Pays Whom",
+      "source": "manuscript/en/05-distribution-economics.md",
+      "path": "book/en/05-distribution-economics/01.md",
+      "html": "en/05-distribution-economics/01.html",
+      "content_sha256": "c091f280cf5048e42f3c3c8f0e0f705979af73a80f4f32b06d222707abf67398"
+    },
+    {
+      "id": "B05-C02",
+      "lang": "en",
+      "title": "Chapter 2: Cost Accepted Deliverables, Not Generation Button Clicks",
+      "source": "manuscript/en/05-distribution-economics.md",
+      "path": "book/en/05-distribution-economics/02.md",
+      "html": "en/05-distribution-economics/02.html",
+      "content_sha256": "0ead8a26435f0168187542a5254e7e1381833d743df05a4b06dcb23b27ce5c25"
+    },
+    {
+      "id": "B05-C03",
+      "lang": "en",
+      "title": "Chapter 3: From Platform Billings to Money You Can Use",
+      "source": "manuscript/en/05-distribution-economics.md",
+      "path": "book/en/05-distribution-economics/03.md",
+      "html": "en/05-distribution-economics/03.html",
+      "content_sha256": "ad30151479347f6814e5dbc39915c988a6024fbf6d87ac99060e4e0bc06f4400"
+    },
+    {
+      "id": "B05-C04",
+      "lang": "en",
+      "title": "Chapter 4: Turn “We Think It Is Better” into a Testable Comparison",
+      "source": "manuscript/en/05-distribution-economics.md",
+      "path": "book/en/05-distribution-economics/04.md",
+      "html": "en/05-distribution-economics/04.html",
+      "content_sha256": "a9257930173540002fe8d86ae7feac6703d7ccc920068f58343fbf463cced3c2"
+    },
+    {
+      "id": "B05-C05",
+      "lang": "en",
+      "title": "Chapter 5: Distribution Is a Delivery Process, Not an Upload Click",
+      "source": "manuscript/en/05-distribution-economics.md",
+      "path": "book/en/05-distribution-economics/05.md",
+      "html": "en/05-distribution-economics/05.html",
+      "content_sha256": "0e53e0ab37a57f6e49f6a02fe2bfc849cf46e22c13b04a1df7e9fc8fe9ccb361"
+    },
+    {
+      "id": "B05-C06",
+      "lang": "en",
+      "title": "Chapter 6: Let Results Guide the Next Round, Not Attractive Numbers",
+      "source": "manuscript/en/05-distribution-economics.md",
+      "path": "book/en/05-distribution-economics/06.md",
+      "html": "en/05-distribution-economics/06.html",
+      "content_sha256": "9e7e675dfac58baa121f721fff3221ce41014c18452e1134b7a1a7de1b097776"
+    },
+    {
+      "id": "B06-C01",
+      "lang": "en",
+      "title": "Chapter 1: Rules Have Different Strengths",
+      "source": "manuscript/en/06-cases-standardization.md",
+      "path": "book/en/06-cases-standardization/01.md",
+      "html": "en/06-cases-standardization/01.html",
+      "content_sha256": "e8b5e613703778b909a9e5611bb6d97074089b92f395577e4d712890084d39ba"
+    },
+    {
+      "id": "B06-C02",
+      "lang": "en",
+      "title": "Chapter 2: What to Check in Existing Knowledge",
+      "source": "manuscript/en/06-cases-standardization.md",
+      "path": "book/en/06-cases-standardization/02.md",
+      "html": "en/06-cases-standardization/02.html",
+      "content_sha256": "c2d54636c7f03b1122df81c7aab7065766daa32578a13a1ce40693db59c16aa3"
+    },
+    {
+      "id": "B06-C03",
+      "lang": "en",
+      "title": "Chapter 3: Bringing Real Brand Cases into a Textbook",
+      "source": "manuscript/en/06-cases-standardization.md",
+      "path": "book/en/06-cases-standardization/03.md",
+      "html": "en/06-cases-standardization/03.html",
+      "content_sha256": "482d3a239a038c42ac8fd34f71c613558ad0a237f939b8ebb800f90fd3eec65b"
+    },
+    {
+      "id": "B06-C04",
+      "lang": "en",
+      "title": "Chapter 4: Comments Need Testing Before They Become Principles",
+      "source": "manuscript/en/06-cases-standardization.md",
+      "path": "book/en/06-cases-standardization/04.md",
+      "html": "en/06-cases-standardization/04.html",
+      "content_sha256": "7a38ae1c1ecfa2a1984b914bd8e4f86b20b6bcd252ebbe7bbeec809d9bee70ae"
+    },
+    {
+      "id": "B06-C05",
+      "lang": "en",
+      "title": "Chapter 5: Writing Principles as Standards Proposals",
+      "source": "manuscript/en/06-cases-standardization.md",
+      "path": "book/en/06-cases-standardization/05.md",
+      "html": "en/06-cases-standardization/05.html",
+      "content_sha256": "f38285fd15c6a7450e797abea61ded755c9380858030267cecfa8cbad6f4e1b6"
+    },
+    {
+      "id": "B06-C06",
+      "lang": "en",
+      "title": "Chapter 6: Review Rubrics and Integrated Practice",
+      "source": "manuscript/en/06-cases-standardization.md",
+      "path": "book/en/06-cases-standardization/06.md",
+      "html": "en/06-cases-standardization/06.html",
+      "content_sha256": "17466d9f9465bef134d1980292c577e87bdc870369f12eed1c87538bf96cfde2"
+    }
+  ]
+}

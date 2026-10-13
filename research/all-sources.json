@@ -1,0 +1,1335 @@
+[
+  {
+    "id": "CM01",
+    "title": "短剧创作者中心",
+    "url": "https://www.shortdramas.com/",
+    "published": null,
+    "evidence_type": "platform_official",
+    "access_level": "opened_full",
+    "observations": [
+      "抖音集团服务面向个人和机构，包含IP挑选、剧本投稿、制作撮合和版权合作。",
+      "官方文字均写依约获得收益，未公开证明任何作者可获得通用纯AI分账单价。"
+    ],
+    "limitations": [
+      "公开首页不是个人项目合同，也不证明此前候选小说授权开放。"
+    ],
+    "how_to_use": "发行前建立平台、权利、交付、结算四项项目卡；依签署条款核算收入。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM02",
+    "title": "快手2026年第二季度及中期未经审核财务业绩",
+    "url": "https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kuaishoukejifabu2026niandierjidujizhongqiweijingshenhecaiwuyeji",
+    "published": "2026-08-19",
+    "evidence_type": "company_financial_primary",
+    "access_level": "opened_full",
+    "observations": [
+      "公司披露2026年6月真人和AI短剧供给相较1月增长超5倍，Q2短剧营销投放消耗同比增长超100%。",
+      "可灵Q2收入超8.5亿元；属于工具业务收入，覆盖广告等用途。"
+    ],
+    "limitations": [
+      "未经审核公司业绩；未披露短剧制作方净利润或作品回本率。",
+      "星芒与可灵2024年已有联合孵化；历史政策不可当2026年当期报价。"
+    ],
+    "how_to_use": "分别绘制工具方、发行平台、出品方现金流；供应增长不能代替项目盈利验证。",
+    "auxiliary_urls": [
+      "https://ir.kuaishou.com/zh-hant/news-releases/news-release-details/kuaishoudamoxingshoucijitiliangxiang"
+    ],
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM03",
+    "title": "阅文集团：品牌及DramaBuddy漫剧助手",
+    "url": "https://www.yuewen.com/?type=1",
+    "published": null,
+    "evidence_type": "company_official",
+    "access_level": "opened_full",
+    "observations": [
+      "官方将阅文短剧描述为依IP库和渠道进行自制、联合开发，并征集原创剧本。",
+      "官方列出DramaBuddy漫剧助手及其可视化创作/IP支持定位。"
+    ],
+    "limitations": [
+      "产品营销声明，不是独立效果测试；未核实个人账号入口、收费与具体IP授权条款。"
+    ],
+    "how_to_use": "IP、工具、渠道分别建账；同一企业覆盖全链并不意味着所有权利自动互通。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM04",
+    "title": "爱奇艺新增多集短片分账合作",
+    "url": "https://pages.iqiyi.com/p/scpr/63x0c36f.html",
+    "published": "2026-09-16",
+    "evidence_type": "platform_announcement_with_press_mirror",
+    "access_level": "official_full_indexed_text_press_mirror_opened",
+    "observations": [
+      "新增不超过3集、总时长60分钟以上的多集短片通道，按平台收入乘分成比例结算。",
+      "报道载明2026-04-22至12-31上线并产生分账收益的AIGC内容有额外20%分账补贴。"
+    ],
+    "limitations": [
+      "官方open仅返回导航，但检索返回完整公告并用中新经纬全文交叉核对。",
+      "这条多集短片门槛不适用于三集60秒样片；补贴须按最新合同和产品类型复核，不能预设到账。"
+    ],
+    "how_to_use": "教材的政策表必须附产品类型、生效期限、基础口径、适用条件；不要只摘最高比例。",
+    "auxiliary_urls": [
+      "https://www.jwview.com/jingwei/html/m/09-18/689367.shtml"
+    ],
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM05",
+    "title": "腾讯视频李啦：2026短剧扶持政策及创作指引演讲",
+    "url": "https://www.thepaper.cn/newsDetail_forward_32772018",
+    "published": "2026-03-16",
+    "evidence_type": "platform_executive_speech_republished",
+    "access_level": "opened_full",
+    "observations": [
+      "演讲区分横屏与竖屏合作，横屏包括纯分账、保底加分账及系列化激励。",
+      "发言将年轻高线用户描述为腾讯视频基本盘，并提出年轻女性与男频供给机会。"
+    ],
+    "limitations": [
+      "澎湃号转载平台发言，不是独立市场测量或通用AI合同。",
+      "最高500万是厂牌条件奖励，不能写成单部新人短剧保底。"
+    ],
+    "how_to_use": "把平台画像当选题假设；用平台自己的目标观众测试来决定是否采用。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM06",
+    "title": "微信小程序微短剧激励报道（待官方合同复核）",
+    "url": "https://www.juduanduan.com/2026/0925/5443.shtml",
+    "published": "2026-09-25",
+    "evidence_type": "trade_report_unverified_policy",
+    "access_level": "opened_full",
+    "observations": [
+      "报道声称10月16日至12月31日小程序活动区分现金和广告金，并设置托管和观看时长条件。"
+    ],
+    "limitations": [
+      "尚未读取对应微信官方规则；材料宣传性强，出现历史首次等未经证明措辞。",
+      "小程序、视频号原生短剧、腾讯视频、火龙是不同产品，不可混用准入与分账。"
+    ],
+    "how_to_use": "只作为待核政策线索。教材不采用70%作当前确定收益；政策卡保留现金/广告金/有效期区别。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM07",
+    "title": "DataEye 2026年9月AI剧漫剧百强榜转载",
+    "url": "https://www.tvoao.com/a/225290.aspx",
+    "published": "2026-10-12",
+    "evidence_type": "analytics_report_reprint",
+    "access_level": "opened_partial_text_images_not_transcribed",
+    "observations": [
+      "导语分别用抖音播放增量和红果峰值热度统计9月榜单。",
+      "导语披露764.60亿播放增量与65.19亿峰值热度总额，属于不同指标。"
+    ],
+    "limitations": [
+      "本轮正文图表未转录，未重新读取57/43等细分统计。",
+      "百强样本存在头部选择偏差，热度不能和播放量直接相除，更不等于净收入。"
+    ],
+    "how_to_use": "数据字典必须写出单位、去重方式、时间窗、样本选择；榜单只用于对标候选池。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM08",
+    "title": "QuestMobile 2026短剧行业洞察报告",
+    "url": "https://www.questmobile.cn/research/report/2041710682848727041/",
+    "published": "2026-04-08",
+    "evidence_type": "analytics_provider_primary",
+    "access_level": "full_indexed_text_mirror_opened",
+    "observations": [
+      "报告的统计时点是2026年2月，独立App与微信小程序分别统计，提示用户结构与消费时段差异。",
+      "公开文本给出7.18亿行业月活；App3.35亿、小程序4.27亿，不应直接求和为去重总人数。"
+    ],
+    "limitations": [
+      "官方页面open超时；已读检索完整文本和澎湃号镜像正文标题/结构，图表没有逐图核验。",
+      "这是2月人群结构，不是10月实时规模，不含制作方成本账。"
+    ],
+    "how_to_use": "受众分层必须绑定渠道与统计月；采用交叉受众去重，禁止把MAU当购买人数。",
+    "auxiliary_urls": [
+      "https://www.thepaper.cn/newsDetail_forward_32923779?commTag=true"
+    ],
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM09",
+    "title": "对话S级AI漫剧制作人黄楚杰",
+    "url": "https://www.thepaper.cn/newsDetail_forward_33101093",
+    "published": "2026-08-09",
+    "evidence_type": "named_creator_interview",
+    "access_level": "opened_full",
+    "observations": [
+      "受访者描述早期120分钟项目6-7人约三个月，算力成本十余万元；角色一致性与镜头逻辑反复修整。",
+      "其项目先提交大纲、人设、企划和demo接受评级，再完成制作；保底是否覆盖成本依制作标准而异。"
+    ],
+    "limitations": [
+      "成本和周期是特定阶段团队自述，不能作为所有AI剧的报价。",
+      "1%爆款率、98%免费IP等为受访者估计，未经独立验证，不纳入教材事实。"
+    ],
+    "how_to_use": "采用先demo与预算、后量产的门槛；工时、返工和算力同时记录。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM10",
+    "title": "短剧深水区专访九州文化",
+    "url": "https://www.thepaper.cn/newsDetail_forward_33955220",
+    "published": "2026-08-27",
+    "evidence_type": "company_written_interview",
+    "access_level": "opened_full",
+    "observations": [
+      "九州书面回答称主流采用AI辅助和人工编剧把关，关注情感深度、人物弧光和文化隐喻。",
+      "其列出的工具痛点为跨镜头一致性、镜头动作可控性、本地化文化适配；角色包括导演、生成、剪辑、音频、本地化质检、运营。"
+    ],
+    "limitations": [
+      "公司宣传和争议回应，不能据此认定裁员/侵权传言真伪；产能、成本和AI占比是自报。",
+      "万元成本和数天周期不是独立审计，不得与黄楚杰不同品质/时长项目硬比较。"
+    ],
+    "how_to_use": "建立一致性、可控性、文化适配三张验收表；成本比较必须先统一交付规格。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM11",
+    "title": "2026AI创作者大会圆桌实录",
+    "url": "https://www.thepaper.cn/newsDetail_forward_32829542",
+    "published": "2026-03-26",
+    "evidence_type": "named_creator_roundtable",
+    "access_level": "opened_full",
+    "observations": [
+      "发光橙子、优时映画、米卡、KOING、扶摇上等参与者强调内容判断、稳定产出及团队协作。",
+      "其中有人建议拆解吸引观众的出场镜头、颜色、背景，结合评论寻找线索。"
+    ],
+    "limitations": [
+      "圆桌不是控制实验；50%爆款率、粉丝数等参与者自报不用于概率基准。",
+      "评论反应与具体镜头因果关系仍需对照测试。"
+    ],
+    "how_to_use": "把创作者建议改写为可检验假设，不把固定秒数爽点或普遍爆款公式写成硬标准。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM12",
+    "title": "星程314：与漫谭、艺界创想、水母智能谈AI漫剧",
+    "url": "https://www.xiaoyuzhoufm.com/episode/6963ab5ce235ea65bc4bb08d",
+    "published": null,
+    "evidence_type": "creator_podcast_shownotes",
+    "access_level": "opened_shownotes_not_audio",
+    "observations": [
+      "节目说明对应2025年11月底峰会，页面显示54分钟。",
+      "show notes描述从选题、改编到分镜、生成与配音的分工，强调镜头语言与单帧美观不同。"
+    ],
+    "limitations": [
+      "只读取公开文字说明，未听音频，不能把整理稿当逐字录音。",
+      "页面可见0条评论；绝不冒充社区观众共识。"
+    ],
+    "how_to_use": "教材以可剪辑的连续镜头组作为交付单位；旁白/配音情绪单独验收。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM13",
+    "title": "知乎：ai漫剧真能赚钱吗？一个带课程导流的回答",
+    "url": "https://www.zhihu.com/question/1990728643920561512/answer/2015570176066736949",
+    "published": null,
+    "evidence_type": "community_answer_promotional",
+    "access_level": "opened_full_answer_no_comment_threads",
+    "observations": [
+      "真实可读回答同时宣称接单稳定收益、引用未提供账目的收益数字，并引导至课程。",
+      "回答也提到剧本、投流、API费用和同质化。"
+    ],
+    "limitations": [
+      "作者身份及收益无法核实，存在卖课激励；5%赚钱、最低9000等数字全部排除。",
+      "问题浏览量和回答数不能证明回复质量或市场代表性，未读取12条评论正文。"
+    ],
+    "how_to_use": "当作信息识别反例：查来源、合同、成本和推广利益关系，不能照抄赚钱建议。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM14",
+    "title": "Reddit中文讨论：AI漫剧制作",
+    "url": "https://www.reddit.com/r/China_irl/comments/1qx7ktg/ai%E6%BC%AB%E5%89%A7%E5%88%B6%E4%BD%9C/",
+    "published": "2026-02-06",
+    "evidence_type": "actual_public_comment_small_sample",
+    "access_level": "opened_post_and_one_comment",
+    "observations": [
+      "帖子提问制作痛点，实际读取到一条回复把音乐列为痛点。"
+    ],
+    "limitations": [
+      "只有一个可见评论，不是活跃制作群调查；身份未核实，Reddit中文用户也不代表中国平台大众。"
+    ],
+    "how_to_use": "只生成音频盲听测试假设，不能推导音乐比画面更重要或行业频率。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM15",
+    "title": "都市快报对点众、编剧及观众的采访",
+    "url": "https://hzdaily.hangzhou.com.cn/dskb/2026/03/13/article_detail_2_20260313A041.html",
+    "published": "2026-03-13",
+    "evidence_type": "journalist_interviews",
+    "access_level": "opened_full",
+    "observations": [
+      "点众负责人强调提高作品质量下限；报道呈现观众借短剧释放工作压力的动机。",
+      "文中快至3天的拍摄周期明确排除前期筹备，不能等同全项目周期。"
+    ],
+    "limitations": [
+      "记者选择的少数采访；未展示采访抽样和公司账目。",
+      "文中3月监管分类已被后来规定更新，法律部分不作当前依据。"
+    ],
+    "how_to_use": "工程计划区分筹备、拍摄/生成、后期、审核等待；观众动机作为访谈问题而非人口结论。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM16",
+    "title": "广电总局令第16号《微短剧发展管理办法》",
+    "url": "https://www.nrta.gov.cn/art/2026/7/31/art_1588_73827.html",
+    "published": "2026-07-31",
+    "evidence_type": "official_regulation",
+    "access_level": "opened_full",
+    "observations": [
+      "自2026-09-01施行；第17条区分类别的许可、批准文件或平台审核编号要求。",
+      "第34条要求AI生成、制作微短剧依有关规定在每集明显位置添加提示标识；第33条涉及非独播三类剧各平台编号。"
+    ],
+    "limitations": [
+      "具体项目类别与平台细则仍需按发布时材料判断；不能把正文未列金额补成全国通用门槛。"
+    ],
+    "how_to_use": "权利与发布检查成为每个版本的交付门槛；平台迁移需要重新核验，不复制旧编号。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM17",
+    "title": "人工智能生成合成内容标识办法",
+    "url": "https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
+    "published": "2025-03-14",
+    "evidence_type": "official_regulation",
+    "access_level": "opened_full",
+    "observations": [
+      "自2025-09-01施行；第10条要求用户发布生成合成内容主动声明并使用平台标识功能。",
+      "规定不得恶意删除、篡改、伪造、隐匿规定标识。"
+    ],
+    "limitations": [
+      "服务提供者与发布用户义务不同；不能把所有模型备案义务都转给普通创作者。"
+    ],
+    "how_to_use": "导出及发布保留标识字段/文件版本，检查平台声明和成片提示。",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "CM18",
+    "title": "T/CEAP 1—2025微短剧创作生产及内容审核技术规范与状态冲突",
+    "url": "https://www.tvoao.com/userfiles/files/%E3%80%8A%E5%BE%AE%E7%9F%AD%E5%89%A7%E5%88%9B%E4%BD%9C%E7%94%9F%E4%BA%A7%E5%8F%8A%E5%86%85%E5%AE%B9%E5%AE%A1%E6%A0%B8%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83%E3%80%8B.pdf",
+    "published": "2025-10-20",
+    "evidence_type": "historical_group_standard_status_conflict",
+    "access_level": "opened_pdf_and_catalog",
+    "observations": [
+      "22页公开PDF封面写中国民族影视艺术发展促进会发布，内容覆盖策划、拍摄、后期、审核和归档。",
+      "国家标准馆检索页将相同编号标为作废，PDF旧分类金额也与2026规则有差异。"
+    ],
+    "limitations": [
+      "不是国家强制标准；未确认作废日期和替代文本；仅作历史标准化先例。"
+    ],
+    "how_to_use": "教材不得声称全球首次制定短剧标准。建立规范性/资料性分层和版本失效机制。",
+    "auxiliary_urls": [
+      "https://www.ndls.org.cn/standard/index?draftman=%E9%9F%A6%E7%8A%81"
+    ],
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "GM01",
+    "title": "Sensor Tower — State of Short Drama Apps 2026",
+    "url": "https://sensortower.com/blog/state-of-short-drama-apps-2026-report",
+    "published": "2026-06",
+    "accessed": "2026-10-13",
+    "evidence_type": "measurement_vendor_primary_public_report_summary",
+    "window": "Q1 2026; engagement through April 2026",
+    "observations": [
+      "估计全球Q1下载超过8.5亿，同比增长140%；IAP约7.5亿美元，同比增长20%。",
+      "DramaBox与ReelShort为该报告Q1 IAP领先者，各接近1.4亿美元；FreeReels为下载领先者。",
+      "东南亚、拉美、印度分别占下载32%、23%、22%；美国仍属重要变现市场。",
+      "报告将本地化、买量、留存和IAP以外的广告变现列为竞争维度。"
+    ],
+    "limitations": [
+      "第三方估计，非审计财报；IAP不是平台全部收入、制作方分账或净利润。",
+      "下载是App Store与Google Play估计，排除预装、重复下载和第三方安卓商店；不能称独立用户。",
+      "只核读公开摘要；不能称2026年10月当期榜单，也未取得付费底层数据。"
+    ],
+    "how_to_use": [
+      "市场章区分规模增长与变现增长。",
+      "平台选择按地域、题材、付费/广告模式和可进入性分层，不用单一全球总榜。"
+    ]
+  },
+  {
+    "id": "GM02",
+    "title": "Moloco — How ReelShort turned ad-supported viewing into a growth engine",
+    "url": "https://www.moloco.com/case-studies/reelshort",
+    "published": null,
+    "published_note": "网页未显示清晰发布日期；搜索索引显示约2026年9月",
+    "accessed": "2026-10-13",
+    "evidence_type": "vendor_customer_case_first_party_promotional",
+    "window": "约六周Dual ROAS活动，具体起止日未公开",
+    "observations": [
+      "ReelShort将付费解锁与看广告继续观看形成的收入同时用于获客优化。",
+      "案例将D7 ROAS定义为第7天累计归因IAP和IAA收入口径；称该方案获客支出份额从1.5%升至40%，每周预算增至2.35倍。"
+    ],
+    "limitations": [
+      "广告供应商自报客户案例，无随机对照、独立审计或完整利润表；增加预算本身不证明净利润增长。",
+      "不能把平台买量指标直接作为一部AI短剧或新人制作方的预期收益。"
+    ],
+    "how_to_use": [
+      "经营章必须把广告收入、付费收入、获客成本和内容成本分别计量。",
+      "同一项目测试至少同时观察后续观看、付费/广告价值与投诉退款，不只看点击。"
+    ]
+  },
+  {
+    "id": "GM03",
+    "title": "ReelShort official — The Double Life of a Billionaire Heiress",
+    "url": "https://www.reelshort.com/movie/the-double-life-of-a-billionaire-heiress-662c25c5344cb5014203b23a",
+    "published": null,
+    "accessed": "2026-10-13",
+    "evidence_type": "platform_primary_catalogue",
+    "observations": [
+      "官方故事简介将婚姻误解、离婚、隐藏继承人身份和追悔串联。",
+      "FAQ称70集已完结，第11集起为premium；明确英文原创真人制作、非AI。",
+      "列表显示Full Episodes 71，含Trailer；不能机械把列表条目数当正片集数。"
+    ],
+    "limitations": [
+      "目录与官方描述证明产品结构，不证明单剧利润或某套路优于其他题材。",
+      "页面播放数字缺少可比计数定义，本记录不拿它与Netflix用户或别的平台热度比较。",
+      "真人剧成功不自动转移到纯AI剧。"
+    ],
+    "how_to_use": [
+      "案例分析按承诺、情节状态改变、身份信息和兑现来拆解。",
+      "把免费段结束点、全季闭合和付费点作为可测试设计变量，禁止宣布第10/11集为普适最佳卡点。"
+    ]
+  },
+  {
+    "id": "GM04",
+    "title": "GoodShort — US App Store product page and selected reviews",
+    "url": "https://apps.apple.com/us/app/goodshort-short-dramas-hub/id6448176203",
+    "published": null,
+    "accessed": "2026-10-13",
+    "evidence_type": "official_store_listing_plus_self_selected_reviews",
+    "observations": [
+      "开发者说明主打小说改编、约一分钟短剧，列现代爱情、都市、CEO、复仇等题材并支持多语言。",
+      "美国页面同时列多种Weekly VIP及币包；列表不是任一用户必然收到的报价。",
+      "可见评论Sunte（显示Mar 9，年份未显示）称奖励币被重播消耗、已看集数重新锁定、恢复进度与客服失败。",
+      "部分2024年正面长评论含未填充的模板占位符，因此不能当作高可信真实用户访谈。"
+    ],
+    "limitations": [
+      "页面精选评论不是随机样本；文字异常只是数据质量疑点，不是评论造假定论。",
+      "不能以精选负评推断多数用户不满，也不能凭商店高均分断言剧情质量。"
+    ],
+    "how_to_use": [
+      "研究方法章加入评论来源、具体性、模板文本、重复文本检查。",
+      "产品交付验收涵盖观看进度、已解锁内容、计价与客服路径；制作方在分发协议中厘清责任。"
+    ]
+  },
+  {
+    "id": "GM05",
+    "title": "ShortMax — US App Store product page and selected reviews",
+    "url": "https://apps.apple.com/us/app/shortmax-short-dramas-tv/id6464002625",
+    "published": null,
+    "accessed": "2026-10-13",
+    "evidence_type": "official_store_listing_plus_self_selected_reviews",
+    "observations": [
+      "开发者SHORTTV LIMITED列爱情、狼人、CEO、复仇、穿越和隐藏身份，支持多语字幕、配音、画中画和离线观看。",
+      "评论Aras.eyaf（显示Jan 21，年份未显示）同时称赞题材广、更新新鲜，并报告续订后暂时不能观看；开发者回复提供反馈通道。"
+    ],
+    "limitations": [
+      "商家功能声明未实测全部功能；一条评价不证明服务故障率或题材偏好占比。",
+      "此页面确认官网为shorttv.live；搜索中出现的shortmax.com.mx未核实为官方，未作为依据。"
+    ],
+    "how_to_use": [
+      "海外版本包含字幕/配音可理解性与移动设备观看测试。",
+      "把内容满意与订阅技术可靠性分开编码，避免把所有流失归咎剧情。"
+    ]
+  },
+  {
+    "id": "GM06",
+    "title": "DramaBox — US App Store product page and selected reviews",
+    "url": "https://apps.apple.com/us/app/dramabox-stream-drama-shorts/id6445905219",
+    "published": null,
+    "accessed": "2026-10-13",
+    "evidence_type": "official_store_listing_plus_self_selected_reviews",
+    "observations": [
+      "官方开发者为STORYMATRIX PTE. LTD.；页面列当前系列与自动续订管理说明。",
+      "Drama checker于2024-07-05列举几部剧结尾未解决关系或反派后果，表示愿为更完整结局付费。",
+      "Geegee 50（显示Apr 4，年份未显示）喜欢故事却认为广告切断过密，破坏体验。",
+      "同App iPad参数索引可见NicoSuzzanne近期评论提到AI角色脸与衣服跨镜头改变；这是可验证问题线索，未独立复看该剧。"
+    ],
+    "limitations": [
+      "旧评论不能代表当前全部剧集；短评样本不能估计断尾率、广告密度或AI故障率。",
+      "不同缓存页面的评分数不同，不以其作增长测量。"
+    ],
+    "how_to_use": [
+      "建立情节承诺/结局兑现表与角色、服装、道具连续性检查。",
+      "市场测试分别收集情节评价和广告/价格评价。"
+    ]
+  },
+  {
+    "id": "GM07",
+    "title": "HOLYWATER TECH and Owl & Co — State of Microdrama 2026 disclosure",
+    "url": "https://www.globenewswire.com/news-release/2026/07/23/3332522/0/en/HOLYWATER-TECH-and-Owl-Co-Publish-First-Industry-Report-on-the-Vertical-Series-Audience.html",
+    "supplemental_urls": [
+      "https://www.holywater.tech/report",
+      "https://www.holywater.tech/blog"
+    ],
+    "published": "2026-07-23",
+    "accessed": "2026-10-13",
+    "evidence_type": "operator_first_party_data_disclosure_press_release",
+    "window": "May 2026 survey; underlying behavioral periods vary and are not fully exposed in release",
+    "observations": [
+      "发布方称结合My Drama/My Muse产品行为数据和2026年5月2737位My Drama用户调查。",
+      "披露My Muse付费转化23.6%、My Drama23.9%，并称89%的My Muse受访者想看更多AI故事。",
+      "官方报告页说明55页、4个数据源、两款APP；完整报告下载入口为表单，本轮未提交个人信息或读取完整报告。"
+    ],
+    "limitations": [
+      "运营商自报，不是行业随机抽样；AI APP既有用户存在选择偏差。",
+      "两APP未随机分配用户/题材/价格/投放，不能据此证明AI与真人具有同等因果效果或净利润。",
+      "2737是My Drama问卷样本，不能偷换成My Muse的样本数。",
+      "1500亿美元是更广的竖屏视频经济估计，不是专属微短剧APP市场；原新闻稿区分后者40亿美元预测。"
+    ],
+    "how_to_use": [
+      "用作AI内容存在付费受众的有条件信号，与反AI社区意见并置。",
+      "设计我们自己的受众分层和匹配试验；不写所有观众接受AI、不采用23.6%作项目预测。"
+    ]
+  },
+  {
+    "id": "GM08",
+    "title": "FOX — Strategic investment in HOLYWATER",
+    "url": "https://www.foxflash.com/releases/view/fox-entertainment-deepens-creative-content-portfolio-and-audience-reach-with-strategic-investment-in-vertical-video-technology-platform-holywater",
+    "published": "2025-10-09",
+    "accessed": "2026-10-13",
+    "evidence_type": "corporate_primary_announcement",
+    "observations": [
+      "FOX宣布持股投资HOLYWATER，合作方向包括原创竖屏剧、广告销售、品牌合作和IP延伸。",
+      "公告承诺未来两年为My Drama制作超过200部竖屏作品；为计划，不是已经完成数。"
+    ],
+    "limitations": [
+      "公告不是项目盈利账或向任一独立创作者开放接单的承诺。",
+      "公告内最高排名与用户数属当时公司宣传，不迁移到2026年10月。"
+    ],
+    "how_to_use": [
+      "经营教材要涵盖B2B委托、品牌和IP合作，而不把商业化缩成APP充值。"
+    ]
+  },
+  {
+    "id": "GM09",
+    "title": "TikTok Ads Manager — PineDrama for Performance Auction",
+    "url": "https://ads-useast2a.tiktok.com/resources/help/article/about-pinedrama-for-performance-auction-in-tiktok-ads-manager?lang=en",
+    "published": "2026-09",
+    "accessed": "2026-10-13",
+    "evidence_type": "platform_primary_operational_policy",
+    "observations": [
+      "PineDrama官方定义为独立短篇连续剧APP，广告竞价投放可覆盖美国、巴西、墨西哥、印尼、越南、泰国。",
+      "符合条件的活动默认包含该广告版位，可在推荐、剧情标签页及集间信息流投放。"
+    ],
+    "limitations": [
+      "广告投放说明不是制作方投稿入口、授权合同、分账比例或各国内容准入保证。",
+      "本轮未投放广告，也未登录查看具体账户可用版位。"
+    ],
+    "how_to_use": [
+      "分发章区分内容发布、广告采买、用户观看和制作方结算四种权限与系统。"
+    ]
+  },
+  {
+    "id": "GM10",
+    "title": "YouTube — Channel monetization policies",
+    "url": "https://support.google.com/youtube/answer/1311392?hl=en",
+    "published": null,
+    "published_note": "动态政策页；历史注记2025-07-15，正文为本次读取的2026-10-13版本",
+    "accessed": "2026-10-13",
+    "evidence_type": "platform_primary_policy",
+    "observations": [
+      "要求原创、有实质差异的内容；同角色跨集但每集有独立故事/重点的系列可以符合变现政策。",
+      "举例不允许角色反复经历同情境同结果、缺少叙事价值的模板、无创作视角的批量AI内容。",
+      "再利用内容、版权和广告友好性是不同检查，不可互相替代。"
+    ],
+    "limitations": [
+      "政策合规不等于频道必获YPP资格或确定收益；整体频道与具体内容均可能被审查。",
+      "不能概括成所有AI内容不能变现。"
+    ],
+    "how_to_use": [
+      "每集必须记录独有的角色选择、信息或后果，并审核整季重复度。",
+      "保留创作、授权和修改链，不把换脸改名当作原创。"
+    ]
+  },
+  {
+    "id": "GM11",
+    "title": "Reddit r/ReelShorts — The AI movies",
+    "url": "https://www.reddit.com/r/ReelShorts/comments/1vgcx4s/the_ai_movies/",
+    "published": "2026-08-05",
+    "accessed": "2026-10-13",
+    "evidence_type": "self_selected_audience_discussion",
+    "observations": [
+      "发帖者厌烦重复战争归来/身份反转模板与长时间羞辱，人物已反证但反派不更新判断。",
+      "回复也有人称AI视觉进步可见，却观察到女性面孔跨镜头回归同一模板。",
+      "另一些回复享受夸张和缺陷，说明娱乐体验偏好并不一致。"
+    ],
+    "limitations": [
+      "不是代表性样本；原帖含偏见性地域指责和评论冲突，此处不采信国籍、产量、就业或收益断言。",
+      "这里只提取可操作的叙事/视觉反馈。"
+    ],
+    "how_to_use": [
+      "把持续升级从音量与辱骂次数改为局势/证据/代价的变化。",
+      "设置反证后人物为何仍不信的动机与信息检验。"
+    ]
+  },
+  {
+    "id": "GM12",
+    "title": "Reddit r/Vertical_Dramas — Why are there so many shortmax dramas unfinished?",
+    "url": "https://www.reddit.com/r/Vertical_Dramas/comments/1vy8mxk/why_are_there_so_many_shortmax_dramas_unfinished/",
+    "published": "2026-08-25",
+    "accessed": "2026-10-13",
+    "evidence_type": "self_selected_audience_discussion",
+    "observations": [
+      "多人描述看过的剧没有结尾、久不更新，称因此停止随机挑剧或不愿再付费。",
+      "有评论区分季末主冲突闭合与突然中断，另有人重视平台评论功能。"
+    ],
+    "limitations": [
+      "未核验具体节目发行计划或平台动机，不能认定平台故意骗订阅。",
+      "情绪贴样本不能推算未完结率或流失率。"
+    ],
+    "how_to_use": [
+      "在开拍前写全季主问题结局与可交付范围。",
+      "续季钩子不得代替本季核心承诺的兑现；连载标明状态与更新时间。"
+    ]
+  },
+  {
+    "id": "GM13",
+    "title": "Reddit r/Vertical_Dramas — I went from hating AI-generated dramas to binge-watching them",
+    "url": "https://www.reddit.com/r/Vertical_Dramas/comments/1v80vae/i_went_from_hating_aigenerated_dramas_to/",
+    "published": null,
+    "published_note": "公开页面显示2mo ago；精确发布日期未独立确认",
+    "accessed": "2026-10-13",
+    "evidence_type": "self_selected_audience_discussion",
+    "observations": [
+      "发帖者称曾排斥AI，后因某些故事、奇幻能力、视觉和现实难以拍摄的世界观转为追看。",
+      "回复赞赏幽默、角色张力和相对自然的呈现，也同时抱怨更新信息不足与重复故事。"
+    ],
+    "limitations": [
+      "个人态度转变不代表总体接受率，作者身份与商业关联未经验证。",
+      "帖子包含未经授权的观看链接，不作为发行或授权渠道推荐。"
+    ],
+    "how_to_use": [
+      "AI卖点应落到具体观看价值，例如奇观、幽默或新叙事组合，不能只写AI制作。",
+      "正反反馈并列，按偏好/题材/质量分层验证。"
+    ]
+  },
+  {
+    "id": "GM14",
+    "title": "Reddit r/CShortDramas — What's your favorite 2026 SD release so far?",
+    "url": "https://www.reddit.com/r/CShortDramas/comments/1u57unc/whats_your_favorite_2026_sd_release_so_far/",
+    "published": "2026-06-14",
+    "accessed": "2026-10-13",
+    "evidence_type": "self_selected_fan_recommendations",
+    "observations": [
+      "发帖者称赞Eat a Gummy Candy的互相支持、角色化学反应、喜剧与情绪兑现；回复赞赏其他剧的聪明喜剧和表演。",
+      "有回复称为特定演员作品买过一周平台服务；也有人重视字幕品质、评论和评分发现。"
+    ],
+    "limitations": [
+      "粉丝样本而非全体用户；本轮未完整观看所提作品，片名/译名不作官方版权映射。",
+      "一次自报购买不能确定演员、字幕或剧情的因果贡献。"
+    ],
+    "how_to_use": [
+      "叙事质量不只统计反转；增加互相支持、角色吸引力、幽默和情绪兑现观察项。",
+      "观众测试记录具体喜欢/不喜欢的时点与原因。"
+    ]
+  },
+  {
+    "id": "GM15",
+    "title": "Trustpilot — DramaBox selected customer reviews",
+    "url": "https://www.trustpilot.com/review/www.dramabox.com",
+    "published": null,
+    "accessed": "2026-10-13",
+    "evidence_type": "self_selected_consumer_reviews",
+    "observations": [
+      "Angelique Martin在2026-07-06发布评价，喜欢剧情、反转及服务剧情的浪漫元素，同时不喜欢周费模式。",
+      "Elena Mahoney在2026-09-26认为人物和浪漫桥段重复。",
+      "另有2026年评论抱怨换手机后订阅恢复、客服与扣费问题；均为作者自述。"
+    ],
+    "limitations": [
+      "投诉型网站选择偏差明显，个案与交易事实未核验。",
+      "不转载评论中的诈骗指控为事实，不以此推断所有用户或平台整体可信度。"
+    ],
+    "how_to_use": [
+      "把故事、角色、结局、价格、账户和客服分别编码。",
+      "测试商业设计时增加费用可理解性与消费预期，而非只优化付费触发。"
+    ]
+  },
+  {
+    "id": "GM16",
+    "title": "Reddit r/Filmmakers — Vertical-drama editor AMA",
+    "url": "https://www.reddit.com/r/Filmmakers/comments/1vfee00/ive_been_editing_vertical_dramas_for_two_years/",
+    "published": "2026-08-04",
+    "accessed": "2026-10-13",
+    "evidence_type": "unverified_creator_self_report",
+    "observations": [
+      "自称ReelShort编辑的发帖者描述批次剪辑、音乐音效、复审与交接；强调开头快速进入行动并大量用反应镜头。",
+      "其他自称从业者描述拍摄、初剪、导演修改和客户修改相互交叠，提出覆盖不足与时间压缩的问题。"
+    ],
+    "limitations": [
+      "身份、劳动合同、裁员、报酬及财务断言未独立验证；不采用其观众画像贬损或公司财务推测。",
+      "速度是个案经验，不能作为健康工时或生产标准。"
+    ],
+    "how_to_use": [
+      "制作章明确交接物、审片角色和修改责任，测返工率与工时。",
+      "把反应镜头、台词插入和覆盖不足变成测试议题，不能把一线压力变成无条件行业最佳实践。"
+    ]
+  },
+  {
+    "id": "GM17",
+    "title": "Cal State LA — Making a Microdrama academic partnership with DramaBox",
+    "url": "https://news.calstatela.edu/2026/02/11/cal-state-la-partners-with-dramabox-to-launch-a-groundbreaking-microdrama-academic-course/",
+    "published": "2026-02-11",
+    "accessed": "2026-10-13",
+    "evidence_type": "university_primary_education_announcement",
+    "observations": [
+      "大学确认已开设Making a Microdrama实作课程，DramaBox提供行业合作支持。",
+      "学生需提案、开发、制作原创概念试播，接受反馈，并有机会向公司提案完整开发。"
+    ],
+    "limitations": [
+      "不是公开完整教学大纲，也不是全球标准组织认证。",
+      "大学自称本国首个综合实作课程，此处不扩大为全球首创。"
+    ],
+    "how_to_use": [
+      "证明该领域已有教学与行业知识积累，我们不能自称第一个创立短剧学科。",
+      "教材应以可交付作品和审片为终点，同时诚实定位为我们制定的公开方法/规范草案。"
+    ]
+  },
+  {
+    "id": "GM18",
+    "title": "Telly Awards — Throughlines: The Vertical Video Revolution with ReelShort",
+    "url": "https://www.tellyawards.com/event-recap/throughlines-the-vertical-video-revolution-with-reelshort/",
+    "published": null,
+    "published_note": "页面未显示精确日；第47届Telly活动回顾，搜索索引约2026年2月",
+    "accessed": "2026-10-13",
+    "evidence_type": "event_organizer_primary_resource_index",
+    "observations": [
+      "主办方提供与ReelShort公关负责人及执行制片人的竖屏内容讨论回看入口。",
+      "页面介绍讨论60秒叙事和为手机竖屏制作的工作；视频链接可供后续逐段学习。"
+    ],
+    "limitations": [
+      "本轮只读活动介绍，没有看完或取得完整视频转录；不得声称已掌握其详细技巧。",
+      "活动参与、奖项或品牌名称不等于原则有效性证据。"
+    ],
+    "how_to_use": [
+      "作为进一步访谈与教学来源入口；精确技巧须先获取视频时间戳或原文再入教材。"
+    ]
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS01",
+    "title": "Drama Skills：11个短剧/漫剧 Agent Skills",
+    "url": "https://github.com/zenstory-ai/drama-skills",
+    "published": null,
+    "evidence_type": "maintainer_repository",
+    "observations": [
+      "仓库README与skills目录可见11个技能，覆盖原著分析、开发、写作、资产、图片提示、分镜、视频提示、生产、剪辑、审查和总控。",
+      "仓库显示MIT许可证，含测试、示例和CHANGELOG；不是单一SaaS。"
+    ],
+    "limitations": [
+      "README的工作室项目量、样片成本和效果是维护者自述，未独立复现。",
+      "开源技能许可不覆盖原著、模型、字体、音乐和配音素材的商业权利。"
+    ],
+    "how_to_use": "优先评估作为制作文件与交接契约参考；先读技能、锁定版本、做离线样例审核，再决定采用哪些模块。",
+    "related_urls": [
+      "https://github.com/zenstory-ai/drama-skills/tree/main/skills",
+      "https://github.com/zenstory-ai/drama-skills/blob/main/LICENSE"
+    ],
+    "maintenance": "可见CHANGELOG最新标注0.8.1，2026-09-28（见TS22）；不是对最后提交日期的证明。",
+    "license": "MIT；第三方生成服务与输入素材另核。",
+    "skill_status": "实际Agent Skills集合；本次未安装或运行"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS02",
+    "title": "Dramake：文字转AI短剧的Agent Skill",
+    "url": "https://github.com/xixihhhh/ai-short-drama-skill",
+    "published": null,
+    "evidence_type": "maintainer_repository",
+    "observations": [
+      "主技能位于skills/dramake/SKILL.md；仓库为MIT，最新发布入口解析到v0.3.3。",
+      "提供连续性、镜头、声音、成本、生成任务、空间及剪辑等模板；README明确兼容Skill并不代表已连接视频生成能力。"
+    ],
+    "limitations": [
+      "兼容和测试通过是维护者自述，未执行验证。",
+      "当前页面抽取未给出可靠最新提交/发布绝对日期；不能用爬取时间当维护时间。"
+    ],
+    "how_to_use": "作为统一制作台账候选，取长于预算与镜头状态管理；需要补真实观众反馈、授权与市场实验。",
+    "related_urls": [
+      "https://github.com/xixihhhh/ai-short-drama-skill/blob/main/skills/dramake/SKILL.md",
+      "https://github.com/xixihhhh/ai-short-drama-skill/releases/tag/v0.3.3"
+    ],
+    "maintenance": "可见v0.3.3；精确日期未验证。",
+    "license": "MIT",
+    "skill_status": "实际Agent Skill；本次未安装或运行"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS03",
+    "title": "Short Drama Agent：单集转连续性生产文件",
+    "url": "https://github.com/MrMO0802/short-drama-agent/blob/main/SKILL.md",
+    "published": null,
+    "evidence_type": "maintainer_skill_source",
+    "observations": [
+      "SKILL.md要求提取角色/场景/道具，建立场景方位、物品状态、线索揭示与因果连续性表，逐镜生成并审阅。",
+      "把2–4秒任务、每镜一个动作写成强规则；并把画面中文字/UI留给后期。"
+    ],
+    "limitations": [
+      "2–4秒和单动作是该实现的设计选择，没有证明适用于所有叙事、镜头、模型。",
+      "仓库本次未核实明确许可证和最新提交时间，不宜直接复制再分发。"
+    ],
+    "how_to_use": "借鉴状态转移和依赖表；镜长和动作数量降级为可测试默认值，按对白长度、情绪与模型能力决定。",
+    "related_urls": [
+      "https://github.com/MrMO0802/short-drama-agent"
+    ],
+    "maintenance": "仓库可见4次提交但日期未验证；不能据此推断成熟度。",
+    "license": "本次未确认",
+    "skill_status": "实际Agent Skill；本次只阅读"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS04",
+    "title": "Remotion 官方 Agent Skills",
+    "url": "https://www.remotion.dev/docs/ai/skills",
+    "published": "2026-10-12",
+    "evidence_type": "official_documentation",
+    "observations": [
+      "官方维护用于创建、排版、字幕、渲染、预览和多媒体检查的Agent Skills，适用Codex等。",
+      "角色是编程式视频装配与图文层，不能自动替代分镜叙事和演员表演生成。"
+    ],
+    "limitations": [
+      "技能文档更新日期不保证所有运行依赖在当前机器可用。",
+      "不以安装技能等同于已获得所有媒体生成能力。"
+    ],
+    "how_to_use": "用于精确中文字、数据/手机UI、片头片尾、字幕、多版本画幅和可复现时间线。",
+    "related_urls": [
+      "https://github.com/remotion-dev/skills",
+      "https://www.remotion.dev/docs/ai/plugins"
+    ],
+    "maintenance": "官方页面Last updated Oct12,2026。",
+    "license": "框架使用条件另见TS05。",
+    "skill_status": "官方实际Agent Skills"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS05",
+    "title": "Remotion License & Pricing",
+    "url": "https://www.remotion.dev/docs/license/pricing",
+    "published": null,
+    "evidence_type": "official_license_pricing",
+    "observations": [
+      "页面为个人及不超过3人的公司提供Free License，商业使用仍受条款约束；4人及以上组织/协作需要对应Company License。",
+      "区分手工创作席位和自动化渲染用途。"
+    ],
+    "limitations": [
+      "许可与价格会更新；部署前按组织人数、用途重新核对。",
+      "免框架许可费不等于免模型、云渲染或素材费用。"
+    ],
+    "how_to_use": "工程预算和上线检查中记录组织规模、许可方案和核对日期。"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS06",
+    "title": "ComfyUI 官方仓库",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "published": null,
+    "evidence_type": "official_repository",
+    "observations": [
+      "GPL-3.0的节点工作流引擎，可复用图像、视频、音频工作流；README列本地模型和收费伙伴API节点。",
+      "可用于保存图、输入参数与局部重跑；它本身不是短剧故事方法论。"
+    ],
+    "limitations": [
+      "模型权重和第三方节点各有许可证，不能由ComfyUI GPL替代。",
+      "厂商最低显存描述不等于本项目指定镜头的吞吐量；未本机基准测试。"
+    ],
+    "how_to_use": "需要本地可控生成时固定工作流JSON、模型哈希、节点版本和素材依赖；先小样验证。",
+    "related_urls": [
+      "https://docs.comfy.org"
+    ],
+    "maintenance": "本次可访问；最新release页抓取失败，未声称精确最新版。",
+    "license": "ComfyUI GPL-3.0；模型与节点单独审核。",
+    "skill_status": "工作流引擎，非SKILL.md"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS07",
+    "title": "Runway reference media / Gen-4 References",
+    "url": "https://help.runwayml.com/hc/en-us/articles/52963720640275-Using-reference-media-to-guide-your-generations",
+    "published": null,
+    "evidence_type": "official_documentation",
+    "observations": [
+      "官方支持将图像、视频、音频作为参考引导生成；学院提供角色与地点一致性教程。"
+    ],
+    "limitations": [
+      "支持参考不意味着身份、服装、视线或物品状态每次正确。",
+      "不同模型接受的参考类型不同，需检查当次入口。"
+    ],
+    "how_to_use": "作为角色/场景参考生成候选；以同一对白与参考资产做小规模合格率比较。",
+    "related_urls": [
+      "https://academy.runwayml.com/tutorial/gen-4-references"
+    ]
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS08",
+    "title": "Runway 商用与失败任务说明",
+    "url": "https://help.runwayml.com/hc/en-us/articles/21668707517587-Can-I-use-the-content-I-made-in-Runway-for-commercial-purposes",
+    "published": null,
+    "evidence_type": "official_policy_and_api",
+    "observations": [
+      "官方说明用户可商业使用生成内容，Runway本身不施加非商业限制。",
+      "网页帮助称生成报错会返还积分；API文档另列SAFETY.INPUT类失败不退款。"
+    ],
+    "limitations": [
+      "用户与Runway之间的权利安排不保证输入素材第三方权利清洁。",
+      "审美不满意的完成任务不能混同系统报错；网页和API规则不可相互套用。"
+    ],
+    "how_to_use": "分别记服务错误、输入拒绝、完成但不合格三类结果；把不合格重试纳入成片成本。",
+    "related_urls": [
+      "https://help.runwayml.com/hc/en-us/articles/32880432736659-Why-am-I-receiving-errors-when-trying-to-generate",
+      "https://docs.dev.runwayml.com/errors/task-failures/"
+    ]
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS09",
+    "title": "快手官方：可灵3.0系列模型发布",
+    "url": "https://ir.kuaishou.com/zh-hant/news-releases/news-release-details/keling30xiliemoxingquanmianshangxian-0",
+    "published": "2026-02-05",
+    "evidence_type": "official_product_announcement",
+    "observations": [
+      "公告列出最长15秒、多镜头、原生多语言音频、参考图/视频与Omni主体/声音参考能力。",
+      "适合纳入中文对白、双人对话和主体连续性候选测试。"
+    ],
+    "limitations": [
+      "一致性与专业级效果是厂商能力描述，不是本剧合格率证据。",
+      "发布时访问层级不能代表今天账号、地区及API可用性；本次未确认具体商业套餐许可。"
+    ],
+    "how_to_use": "采用模型/地区/入口/计划四项能力登记；用说话者绑定、口型和物品状态验收而非只看画面美感。"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS10",
+    "title": "字节跳动 Seedance 官方模型页",
+    "url": "https://seed.bytedance.com/en/seedance2_0/",
+    "published": null,
+    "evidence_type": "official_model_page",
+    "observations": [
+      "Seedance2.0官方模型说明多模态参考、音视频联合生成与编辑能力。",
+      "官方域名是seed.bytedance.com；同名第三方网站与GitHub账号不能自动认定为官方。"
+    ],
+    "limitations": [
+      "研究/展示页不等于账号已获使用权限，也不能代表即梦/方舟/海外入口功能相同。",
+      "没有据此声称它是当前最新或全场景最优模型。"
+    ],
+    "how_to_use": "模型能力从官方页起查，再落到实际部署入口的参数与条款。",
+    "related_urls": [
+      "https://seed.bytedance.com/zh/blog/seedance-2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+    ]
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS11",
+    "title": "火山方舟创建视频生成任务API",
+    "url": "https://docs.volcengine.com/docs/ark/create-video-generation-task-api?lang=zh",
+    "published": null,
+    "evidence_type": "official_api_documentation",
+    "observations": [
+      "API按模型区分输入、比例、时长、参考和水印选项；当前文档已有Seedance2.5及2.0系列条目。",
+      "图生视频比例不一致可能触发居中裁剪，因此人物/字幕安全区要前置验证。"
+    ],
+    "limitations": [
+      "文档列模型不证明用户账号/地区有权限。",
+      "即梦UI流程不能直接套用API参数；本次未读取完整服务协议，不作商用许可承诺。"
+    ],
+    "how_to_use": "保存准确model id、请求参数、任务ID、账单与输出；避免中断后直接重复提交收费任务。",
+    "related_urls": [
+      "https://docs.volcengine.com/docs/ark/video-generation-tutorial?lang=en"
+    ]
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS12",
+    "title": "Luma Ray3 Modify 与授权说明",
+    "url": "https://lumalabs.ai/learning-hub/ray3-modify-user-guide",
+    "published": "2025-12-12",
+    "evidence_type": "official_documentation",
+    "observations": [
+      "Modify可结合原视频、角色参考和关键帧控制变化，适合保留表演与动作的方案。",
+      "授权指南区分商业套餐和非商业套餐。"
+    ],
+    "limitations": [
+      "本指南称结束参考可能取输入视频第5秒帧，不应当作任意长度最终帧的通则。",
+      "旧指南套餐名称与当前定价页可能不同，采用前需核对当前订单和条款；未证明所有变化完全无漂移。"
+    ],
+    "how_to_use": "有自摄/已授权表演素材时纳入候选；记录输入输出身份与时长，并保存当期商业许可。",
+    "related_urls": [
+      "https://lumalabs.ai/learning-hub/licensing",
+      "https://lumalabs.ai/legal/terms-of-service",
+      "https://lumalabs.ai/pricing"
+    ]
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS13",
+    "title": "Google Flow 官方模型与功能矩阵",
+    "url": "https://support.google.com/flow/answer/16352836?hl=en",
+    "published": null,
+    "evidence_type": "official_documentation",
+    "observations": [
+      "Flow按不同模型列文生视频、首帧/首尾帧、参考素材、延长、比例和时长支持情况，并提醒生成前检查活动模型及积分。"
+    ],
+    "limitations": [
+      "不能把Veo某型号能力推广到Flow每个模型、账户和地区。",
+      "本次没有以功能页代替商业授权条款或确认账户权限。"
+    ],
+    "how_to_use": "测试前冻结模型与输入模式；升级后重新测试关键镜头，不沿用旧模型成绩。",
+    "related_urls": [
+      "https://support.google.com/flow/answer/16935718?hl=en-0"
+    ]
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS14",
+    "title": "OpenAI 官方：Sora discontinuation",
+    "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+    "published": null,
+    "evidence_type": "official_service_status",
+    "observations": [
+      "帮助页写明网页/App于2026-04-26停止，API停止日期为2026-09-24。",
+      "截至本次2026-10-13研究，应从新项目可用供应商名单剔除Sora。"
+    ],
+    "limitations": [
+      "页面保留API将停用的将来时，但列明日期已过去；本次未调用API实测。",
+      "旧教程和第三方聚合平台宣传不能推翻官方服务时间线。"
+    ],
+    "how_to_use": "教材保留历史案例；生产工具注册表记为退役，不让智能体按旧教程继续推荐或提交。"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS15",
+    "title": "ElevenLabs 官方内容商用规则",
+    "url": "https://help.elevenlabs.io/hc/en-us/articles/13313564601361-Can-I-publish-the-content-I-generate-on-the-platform",
+    "published": null,
+    "evidence_type": "official_license_policy",
+    "observations": [
+      "官方帮助区分免费期与付费期生成内容；付费计划商用仍要求输入权利等条件，Beta服务另有限制。",
+      "可作为角色配音、音色一致性与多语言版本工具候选。"
+    ],
+    "limitations": [
+      "买会员不能自动使之前免费期生成内容获得商用许可。",
+      "声音克隆的同意、声库的具体条件与素材权利另核；不能只凭订阅推断。"
+    ],
+    "how_to_use": "每个voice_id关联来源、同意/授权、生成时套餐、语言和验收样音；锁对白后再对口型。",
+    "related_urls": [
+      "https://help.elevenlabs.io/hc/en-us/articles/13313778519057-Are-there-any-restrictions-on-what-voices-I-can-upload-for-voice-cloning",
+      "https://elevenlabs.io/terms-of-use"
+    ]
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS16",
+    "title": "Blackmagic Design 官方 DaVinci Resolve 培训",
+    "url": "https://www.blackmagicdesign.com/au/products/davinciresolve/training",
+    "published": null,
+    "evidence_type": "official_training",
+    "observations": [
+      "官方提供剪辑、调色、Fairlight声音后期与练习素材课程，支持把生成片段变成可交付作品。"
+    ],
+    "limitations": [
+      "课程和书籍是现有影视后期知识，并非我们新发明的原则。",
+      "软件免费版/Studio功能需分别核对，未在用户机器安装测试。"
+    ],
+    "how_to_use": "教材后期卷引用其分轨、对白清理、空间声音、响度、色彩与交付训练，再增补AI素材特有的连续性检验。",
+    "related_urls": [
+      "https://documents.blackmagicdesign.com/UserManuals/DaVinciResolveFairlightAudioPost.pdf"
+    ]
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS17",
+    "title": "Adobe Premiere Generative Extend FAQ",
+    "url": "https://helpx.adobe.com/nz/premiere-pro/using/generative-extend-faq.html",
+    "published": "2026-05-25",
+    "evidence_type": "official_documentation",
+    "observations": [
+      "官方FAQ列横竖画幅、分辨率、帧率和位深条件；Extend用于修补片段头尾剪辑余量。",
+      "页面说明提交的片段用于请求的延展，不用于改进该AI。"
+    ],
+    "limitations": [
+      "不能由延展功能推断它会修复人物因果、对白内容或整段表演。",
+      "不同版本和积分方案需当次核实。"
+    ],
+    "how_to_use": "剪辑中先判断补拍、重新生成、剪切或延展哪个更合适；记录合成新增帧的起止位置。"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS18",
+    "title": "社区案例：12分钟AI短片的角色、声音、场景连续性经验与反例",
+    "url": "https://www.reddit.com/r/aifilmmaking/comments/1w484j8/what_i_learned_about_character_consistency_while/",
+    "published": "2026-09-01",
+    "evidence_type": "community_creator_self_report",
+    "observations": [
+      "作者自述用角色参考表处理一致性、用声音转换保持角色音色，并强调先静帧测试。",
+      "评论指出干配音缺场景混响、地点大图会压过近景构图、尾帧续接仍可能色偏；另有评论建议不同模型使用各自提示语法。"
+    ],
+    "limitations": [
+      "单个创作者和评论者自述；未下载原片逐帧复验，无随机对照，不能当成通用成功率。",
+      "评论中的方法与产品推荐可能存在选择偏差。"
+    ],
+    "how_to_use": "转成三个可测问题：角色相似度与服装状态、声音空间匹配、参考图对构图的干扰；保留失败样例。"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS19",
+    "title": "社区反馈：Runway反复生成、积分支出与期望落差",
+    "url": "https://www.reddit.com/r/runwayml/comments/1hjuqft/is_runway_ai_worth_it/",
+    "published": null,
+    "evidence_type": "community_discussion",
+    "observations": [
+      "2026-02-12、07-28等评论报告参考结构被改动、反复重试消耗积分及完成结果不满意。",
+      "这些内容揭示成本评估应以验收后的成片秒数作分母。"
+    ],
+    "limitations": [
+      "原帖早于当前产品，评论跨版本；不采纳其对品牌的辱骂或诈骗定性。",
+      "没有发票、全量任务及参数，不能推算平台整体失败率或现价。"
+    ],
+    "how_to_use": "建立每个镜头尝试次数、扣费、返还、合格秒数和人工修改分钟台账；与TS08官方退款规则区分。"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS20",
+    "title": "社区反馈：Kling口型同步时间窗口不匹配",
+    "url": "https://www.reddit.com/r/KlingAI_Videos/comments/1l5czyb/who_the_f_suggested_a_changed_to_lip_sync/",
+    "published": "2025-06-07",
+    "evidence_type": "community_issue_report",
+    "observations": [
+      "原帖报告视频可对口型区间与用户音轨长度不匹配，需要额外裁切；2026-04-14仍有评论报告后段口型偏差。"
+    ],
+    "limitations": [
+      "历史界面/模型的个案，不证明当前3.0仍有相同缺陷。",
+      "缺少可复现原始资产，不能据此给软件质量排名。"
+    ],
+    "how_to_use": "每次工具升级回归测试短对白、长对白、双说话者和静默反应；验证有效发声区间而非只对总时长。"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS21",
+    "title": "ComfyUI issue12651：音频解码/截断缺陷与修复链",
+    "url": "https://github.com/Comfy-Org/ComfyUI/issues/12651",
+    "published": "2026-02-26",
+    "evidence_type": "reproducible_issue_and_maintenance",
+    "observations": [
+      "报告附工作流、webm输入、Opus错误，出现无音频或短碎片。",
+      "页面显示关联修复PR12652，2026-03-17作者确认合并并关闭。"
+    ],
+    "limitations": [
+      "这是已关闭历史缺陷，不能把它写成当前必然存在的问题。",
+      "本次未拉取对应旧/新版本复现。"
+    ],
+    "how_to_use": "将保存原始输入、最小工作流、错误日志、修复版本和回归用例作为问题闭环标准。"
+  },
+  {
+    "accessed": "2026-10-13",
+    "id": "TS22",
+    "title": "Drama Skills更新日志：规则收缩、样本边界与生产故障修复",
+    "url": "https://github.com/zenstory-ai/drama-skills/blob/main/CHANGELOG.md",
+    "published": "2026-09-28",
+    "evidence_type": "maintainer_change_log",
+    "observations": [
+      "0.8.1强调反应镜/接触动作来自特定模型的小样本，不能跨模型外推。",
+      "0.7.1删除强制单人反应镜等过度规则；0.7.0记录中断任务ID取回、字幕缩放/时序漂移与重出素材后字幕失效的修正。"
+    ],
+    "limitations": [
+      "维护者生产观察不是独立研究；不能直接把其默认时长或阈值升格为行业标准。"
+    ],
+    "how_to_use": "教材采用分级规则：数据/依赖不变量、需人工判定的约束、可覆盖工艺默认、审美选择；每次修正规则保留原因、版本与测试。"
+  },
+  {
+    "id": "FM01",
+    "title": "Adobe：180-degree rule",
+    "url": "https://www.adobe.com/creativecloud/video/discover/what-is-the-180-degree-rule.html",
+    "published": "未标明",
+    "accessed": "2026-10-13",
+    "evidence_type": "官方教学资料",
+    "read_level": "正文",
+    "observations": [
+      "轴线有助于维持人物空间关系；有目的的越轴可表达混乱或视角变化。"
+    ],
+    "limitations": [
+      "制作惯例与专家指导，不是短剧盈利实验。"
+    ],
+    "how_to_use": "以空间可读性作为验收对象，不把永不越轴写成定律。"
+  },
+  {
+    "id": "FM02",
+    "title": "W3C：Understanding SC 1.2.2 Captions",
+    "url": "https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded",
+    "published": "2026-08-10页面更新",
+    "accessed": "2026-10-13",
+    "evidence_type": "官方无障碍标准解释",
+    "read_level": "正文",
+    "observations": [
+      "字幕需传递对白和理解内容所需的非语言声音，不能遮挡重要信息。"
+    ],
+    "limitations": [
+      "网页无障碍规则背景，不是所有短剧平台的强制交付参数。"
+    ],
+    "how_to_use": "派生字幕和关键声音的验收检查，平台参数另查。"
+  },
+  {
+    "id": "FM03",
+    "title": "YouTube：Measure key moments for audience retention",
+    "url": "https://support.google.com/youtube/answer/9314415?hl=en",
+    "published": "未标明",
+    "accessed": "2026-10-13",
+    "evidence_type": "平台官方指标说明",
+    "read_level": "正文",
+    "observations": [
+      "观看尖峰可能来自喜爱、分享，也可能来自看不懂而重看；应区分自然和付费流量。"
+    ],
+    "limitations": [
+      "此帮助页不能证明其他平台采用同一指标；观看终点不等于利润。"
+    ],
+    "how_to_use": "观看曲线必须与情节理解、评论和后续行为联合解释。"
+  },
+  {
+    "id": "FM04",
+    "title": "Microsoft Research：Patterns of Trustworthy Experimentation — Pre-Experiment Stage",
+    "url": "https://www.microsoft.com/en-us/research/articles/patterns-of-trustworthy-experimentation-pre-experiment-stage/",
+    "published": "2020-07-31",
+    "accessed": "2026-10-13",
+    "evidence_type": "原机构研究方法指南",
+    "read_level": "正文",
+    "observations": [
+      "先写可证伪假设、指标、随机化单位并检查数据偏差；试验早期人群不能直接代表总体。"
+    ],
+    "limitations": [
+      "软件在线实验背景；对短剧的转用是本项目的方法设计。"
+    ],
+    "how_to_use": "分开小样本理解测试、平台观测比较与随机实验。"
+  },
+  {
+    "id": "FM05",
+    "title": "ISO：Developing standards",
+    "url": "https://www.iso.org/developing-standards.html",
+    "published": "未标明",
+    "accessed": "2026-10-13",
+    "evidence_type": "标准组织公开程序",
+    "read_level": "正文及索引摘录",
+    "observations": [
+      "标准形成包含需求、专家与利益相关方参与、意见处理与共识。"
+    ],
+    "limitations": [
+      "不能把本地草案称为ISO认可或正式行业标准。"
+    ],
+    "how_to_use": "建立版本、议题、证据、异议、外部试用和修订机制。"
+  },
+  {
+    "id": "FM06",
+    "title": "IEEE Computer Society：SWEBOK",
+    "url": "https://www.computer.org/education/bodies-of-knowledge/software-engineering",
+    "published": "页面含2025-09-25更新",
+    "accessed": "2026-10-13",
+    "evidence_type": "学科知识体系官方介绍",
+    "read_level": "官方索引正文摘录；直接打开失败",
+    "observations": [
+      "知识体系通过知识域、边界、参考文献与持续修订支持课程建设。"
+    ],
+    "limitations": [
+      "未通读SWEBOK全书；只借鉴组织方式，不借用其认证地位。"
+    ],
+    "how_to_use": "六册教材与单独标准文本、工具手册分层。"
+  },
+  {
+    "id": "FM07",
+    "title": "TikTok：Creative best practices for performance ads",
+    "url": "https://ads.tiktok.com/resources/help/article/creative-best-practices?lang=en",
+    "published": "2025-06更新",
+    "accessed": "2026-10-13",
+    "evidence_type": "平台广告制作建议",
+    "read_level": "正文",
+    "observations": [
+      "建议广告早期给出内容主张与钩子，同时明确建议是持续测试的起点。"
+    ],
+    "limitations": [
+      "广告素材场景；不能推出所有剧情必须3秒爆点或固定反转频率。"
+    ],
+    "how_to_use": "将开场时长作为可测试变量，保留不同类型的合理例外。"
+  },
+  {
+    "id": "FM08",
+    "title": "Bente等：Building blocks of suspense",
+    "url": "https://www.nature.com/articles/s41599-022-01461-5",
+    "published": "2022-12-13",
+    "accessed": "2026-10-13",
+    "evidence_type": "原始实验研究",
+    "read_level": "摘要、方法、结果、限制",
+    "observations": [
+      "105名美国大学生观看/收听一个5分30秒影片的不同音画版本；主观与生理反应部分分离。"
+    ],
+    "limitations": [
+      "单一影片、特定人群，不能当成所有短剧音乐策略的证明。"
+    ],
+    "how_to_use": "声音应独立设计和测试，情绪强度、理解与喜欢分别测量。"
+  },
+  {
+    "id": "FM09",
+    "title": "Wirz等：The Role of Cliffhangers in Serial Entertainment",
+    "url": "https://sonar.ch/unifr/documents/319990",
+    "published": "2022在线；2023卷期",
+    "accessed": "2026-10-13",
+    "evidence_type": "原始实验研究",
+    "read_level": "官方摘要与作者稿可检索方法结果摘录；PDF直接读取失败",
+    "observations": [
+      "133人观看3至4集长剧；悬念结尾提高部分唤醒指标，未检出喜欢程度或续看意愿提高。"
+    ],
+    "limitations": [
+      "长剧、特定样本和实验情境；未检出不等于证明效果为零。"
+    ],
+    "how_to_use": "反驳悬念结尾必然提高续看的绝对说法。"
+  },
+  {
+    "id": "FM10",
+    "title": "Schibler等：Investigating Responses to Narrative Cliffhangers Using Affective Disposition Theory",
+    "url": "https://doi.org/10.1080/15213269.2023.2219456",
+    "published": "2023-06-02在线；2024卷期",
+    "accessed": "2026-10-13",
+    "evidence_type": "原始实验研究",
+    "read_level": "论文摘要与作者稿可检索结果摘录；出版全文直接读取失败",
+    "observations": [
+      "两项文字叙事实验的样本202和273；部分比较中后续故事意愿提高，喜欢和悬念评分未呈现显著差异。"
+    ],
+    "limitations": [
+      "文字刺激与自报意愿，不能直接当成短剧真实续看或付费效果。"
+    ],
+    "how_to_use": "与FM09并置，结论改为效果依赖材料、比较条件与测量终点。"
+  },
+  {
+    "id": "FM11",
+    "title": "Cao等：Audience in the Loop",
+    "url": "https://arxiv.org/html/2602.14045v1",
+    "published": "2026-02-15 v1",
+    "accessed": "2026-10-13",
+    "evidence_type": "原始定性研究",
+    "read_level": "摘要、方法3、结果4.2、限制5.4",
+    "observations": [
+      "28名受访者的半结构访谈，记录创作者如何使用评论与平台信号；论文明确只分析访谈材料。"
+    ],
+    "limitations": [
+      "熟人和滚雪球招募、以中国从业者为主、自述偏差、无直接观众研究或平台数据因果验证。"
+    ],
+    "how_to_use": "借鉴反馈分类；把自述的效果和本项目已验证效果分开。"
+  },
+  {
+    "id": "FM12",
+    "title": "Pixar in a Box：The art of storytelling",
+    "url": "https://www.khanacademy.org/computing/pixar/storytelling",
+    "published": "未标明",
+    "accessed": "2026-10-13",
+    "evidence_type": "原机构课程目录",
+    "read_level": "官方搜索索引目录；网页正文为空",
+    "observations": [
+      "课程涵盖人物、结构、视觉语言等。"
+    ],
+    "limitations": [
+      "本轮未观看全部视频或完成课程，不能称已掌握其完整体系。"
+    ],
+    "how_to_use": "延伸学习资源；不据此推出短剧硬性公式。"
+  }
+]

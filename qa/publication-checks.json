@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "version": "0.1.0",
+  "paired_chapters": 36,
+  "chapter_pages": 72,
+  "translation_pairs": 9,
+  "html_pages": 94,
+  "source_records": 70,
+  "checks": [
+    "chapter pairing",
+    "external citation parity",
+    "translation hashes",
+    "local Markdown/HTML links",
+    "public-text path/credential-pattern scan",
+    "case state"
+  ],
+  "limitations": [
+    "not professional human translation review",
+    "not a source truth audit",
+    "not media or audience validation"
+  ],
+  "errors": []
+}

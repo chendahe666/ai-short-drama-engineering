@@ -1,0 +1,362 @@
+{
+  "schema_version": "1.0",
+  "scope": "中国AI短剧与微短剧市场、品牌、平台、创作者反馈及规则；有边界的公开检索",
+  "as_of": "2026-10-13",
+  "sources": [
+    {
+      "id": "CM01",
+      "title": "短剧创作者中心",
+      "url": "https://www.shortdramas.com/",
+      "published": null,
+      "evidence_type": "platform_official",
+      "access_level": "opened_full",
+      "observations": [
+        "抖音集团服务面向个人和机构，包含IP挑选、剧本投稿、制作撮合和版权合作。",
+        "官方文字均写依约获得收益，未公开证明任何作者可获得通用纯AI分账单价。"
+      ],
+      "limitations": [
+        "公开首页不是个人项目合同，也不证明此前候选小说授权开放。"
+      ],
+      "how_to_use": "发行前建立平台、权利、交付、结算四项项目卡；依签署条款核算收入。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM02",
+      "title": "快手2026年第二季度及中期未经审核财务业绩",
+      "url": "https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kuaishoukejifabu2026niandierjidujizhongqiweijingshenhecaiwuyeji",
+      "published": "2026-08-19",
+      "evidence_type": "company_financial_primary",
+      "access_level": "opened_full",
+      "observations": [
+        "公司披露2026年6月真人和AI短剧供给相较1月增长超5倍，Q2短剧营销投放消耗同比增长超100%。",
+        "可灵Q2收入超8.5亿元；属于工具业务收入，覆盖广告等用途。"
+      ],
+      "limitations": [
+        "未经审核公司业绩；未披露短剧制作方净利润或作品回本率。",
+        "星芒与可灵2024年已有联合孵化；历史政策不可当2026年当期报价。"
+      ],
+      "how_to_use": "分别绘制工具方、发行平台、出品方现金流；供应增长不能代替项目盈利验证。",
+      "auxiliary_urls": [
+        "https://ir.kuaishou.com/zh-hant/news-releases/news-release-details/kuaishoudamoxingshoucijitiliangxiang"
+      ],
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM03",
+      "title": "阅文集团：品牌及DramaBuddy漫剧助手",
+      "url": "https://www.yuewen.com/?type=1",
+      "published": null,
+      "evidence_type": "company_official",
+      "access_level": "opened_full",
+      "observations": [
+        "官方将阅文短剧描述为依IP库和渠道进行自制、联合开发，并征集原创剧本。",
+        "官方列出DramaBuddy漫剧助手及其可视化创作/IP支持定位。"
+      ],
+      "limitations": [
+        "产品营销声明，不是独立效果测试；未核实个人账号入口、收费与具体IP授权条款。"
+      ],
+      "how_to_use": "IP、工具、渠道分别建账；同一企业覆盖全链并不意味着所有权利自动互通。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM04",
+      "title": "爱奇艺新增多集短片分账合作",
+      "url": "https://pages.iqiyi.com/p/scpr/63x0c36f.html",
+      "published": "2026-09-16",
+      "evidence_type": "platform_announcement_with_press_mirror",
+      "access_level": "official_full_indexed_text_press_mirror_opened",
+      "observations": [
+        "新增不超过3集、总时长60分钟以上的多集短片通道，按平台收入乘分成比例结算。",
+        "报道载明2026-04-22至12-31上线并产生分账收益的AIGC内容有额外20%分账补贴。"
+      ],
+      "limitations": [
+        "官方open仅返回导航，但检索返回完整公告并用中新经纬全文交叉核对。",
+        "这条多集短片门槛不适用于三集60秒样片；补贴须按最新合同和产品类型复核，不能预设到账。"
+      ],
+      "how_to_use": "教材的政策表必须附产品类型、生效期限、基础口径、适用条件；不要只摘最高比例。",
+      "auxiliary_urls": [
+        "https://www.jwview.com/jingwei/html/m/09-18/689367.shtml"
+      ],
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM05",
+      "title": "腾讯视频李啦：2026短剧扶持政策及创作指引演讲",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32772018",
+      "published": "2026-03-16",
+      "evidence_type": "platform_executive_speech_republished",
+      "access_level": "opened_full",
+      "observations": [
+        "演讲区分横屏与竖屏合作，横屏包括纯分账、保底加分账及系列化激励。",
+        "发言将年轻高线用户描述为腾讯视频基本盘，并提出年轻女性与男频供给机会。"
+      ],
+      "limitations": [
+        "澎湃号转载平台发言，不是独立市场测量或通用AI合同。",
+        "最高500万是厂牌条件奖励，不能写成单部新人短剧保底。"
+      ],
+      "how_to_use": "把平台画像当选题假设；用平台自己的目标观众测试来决定是否采用。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM06",
+      "title": "微信小程序微短剧激励报道（待官方合同复核）",
+      "url": "https://www.juduanduan.com/2026/0925/5443.shtml",
+      "published": "2026-09-25",
+      "evidence_type": "trade_report_unverified_policy",
+      "access_level": "opened_full",
+      "observations": [
+        "报道声称10月16日至12月31日小程序活动区分现金和广告金，并设置托管和观看时长条件。"
+      ],
+      "limitations": [
+        "尚未读取对应微信官方规则；材料宣传性强，出现历史首次等未经证明措辞。",
+        "小程序、视频号原生短剧、腾讯视频、火龙是不同产品，不可混用准入与分账。"
+      ],
+      "how_to_use": "只作为待核政策线索。教材不采用70%作当前确定收益；政策卡保留现金/广告金/有效期区别。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM07",
+      "title": "DataEye 2026年9月AI剧漫剧百强榜转载",
+      "url": "https://www.tvoao.com/a/225290.aspx",
+      "published": "2026-10-12",
+      "evidence_type": "analytics_report_reprint",
+      "access_level": "opened_partial_text_images_not_transcribed",
+      "observations": [
+        "导语分别用抖音播放增量和红果峰值热度统计9月榜单。",
+        "导语披露764.60亿播放增量与65.19亿峰值热度总额，属于不同指标。"
+      ],
+      "limitations": [
+        "本轮正文图表未转录，未重新读取57/43等细分统计。",
+        "百强样本存在头部选择偏差，热度不能和播放量直接相除，更不等于净收入。"
+      ],
+      "how_to_use": "数据字典必须写出单位、去重方式、时间窗、样本选择；榜单只用于对标候选池。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM08",
+      "title": "QuestMobile 2026短剧行业洞察报告",
+      "url": "https://www.questmobile.cn/research/report/2041710682848727041/",
+      "published": "2026-04-08",
+      "evidence_type": "analytics_provider_primary",
+      "access_level": "full_indexed_text_mirror_opened",
+      "observations": [
+        "报告的统计时点是2026年2月，独立App与微信小程序分别统计，提示用户结构与消费时段差异。",
+        "公开文本给出7.18亿行业月活；App3.35亿、小程序4.27亿，不应直接求和为去重总人数。"
+      ],
+      "limitations": [
+        "官方页面open超时；已读检索完整文本和澎湃号镜像正文标题/结构，图表没有逐图核验。",
+        "这是2月人群结构，不是10月实时规模，不含制作方成本账。"
+      ],
+      "how_to_use": "受众分层必须绑定渠道与统计月；采用交叉受众去重，禁止把MAU当购买人数。",
+      "auxiliary_urls": [
+        "https://www.thepaper.cn/newsDetail_forward_32923779?commTag=true"
+      ],
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM09",
+      "title": "对话S级AI漫剧制作人黄楚杰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33101093",
+      "published": "2026-08-09",
+      "evidence_type": "named_creator_interview",
+      "access_level": "opened_full",
+      "observations": [
+        "受访者描述早期120分钟项目6-7人约三个月，算力成本十余万元；角色一致性与镜头逻辑反复修整。",
+        "其项目先提交大纲、人设、企划和demo接受评级，再完成制作；保底是否覆盖成本依制作标准而异。"
+      ],
+      "limitations": [
+        "成本和周期是特定阶段团队自述，不能作为所有AI剧的报价。",
+        "1%爆款率、98%免费IP等为受访者估计，未经独立验证，不纳入教材事实。"
+      ],
+      "how_to_use": "采用先demo与预算、后量产的门槛；工时、返工和算力同时记录。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM10",
+      "title": "短剧深水区专访九州文化",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33955220",
+      "published": "2026-08-27",
+      "evidence_type": "company_written_interview",
+      "access_level": "opened_full",
+      "observations": [
+        "九州书面回答称主流采用AI辅助和人工编剧把关，关注情感深度、人物弧光和文化隐喻。",
+        "其列出的工具痛点为跨镜头一致性、镜头动作可控性、本地化文化适配；角色包括导演、生成、剪辑、音频、本地化质检、运营。"
+      ],
+      "limitations": [
+        "公司宣传和争议回应，不能据此认定裁员/侵权传言真伪；产能、成本和AI占比是自报。",
+        "万元成本和数天周期不是独立审计，不得与黄楚杰不同品质/时长项目硬比较。"
+      ],
+      "how_to_use": "建立一致性、可控性、文化适配三张验收表；成本比较必须先统一交付规格。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM11",
+      "title": "2026AI创作者大会圆桌实录",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32829542",
+      "published": "2026-03-26",
+      "evidence_type": "named_creator_roundtable",
+      "access_level": "opened_full",
+      "observations": [
+        "发光橙子、优时映画、米卡、KOING、扶摇上等参与者强调内容判断、稳定产出及团队协作。",
+        "其中有人建议拆解吸引观众的出场镜头、颜色、背景，结合评论寻找线索。"
+      ],
+      "limitations": [
+        "圆桌不是控制实验；50%爆款率、粉丝数等参与者自报不用于概率基准。",
+        "评论反应与具体镜头因果关系仍需对照测试。"
+      ],
+      "how_to_use": "把创作者建议改写为可检验假设，不把固定秒数爽点或普遍爆款公式写成硬标准。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM12",
+      "title": "星程314：与漫谭、艺界创想、水母智能谈AI漫剧",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6963ab5ce235ea65bc4bb08d",
+      "published": null,
+      "evidence_type": "creator_podcast_shownotes",
+      "access_level": "opened_shownotes_not_audio",
+      "observations": [
+        "节目说明对应2025年11月底峰会，页面显示54分钟。",
+        "show notes描述从选题、改编到分镜、生成与配音的分工，强调镜头语言与单帧美观不同。"
+      ],
+      "limitations": [
+        "只读取公开文字说明，未听音频，不能把整理稿当逐字录音。",
+        "页面可见0条评论；绝不冒充社区观众共识。"
+      ],
+      "how_to_use": "教材以可剪辑的连续镜头组作为交付单位；旁白/配音情绪单独验收。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM13",
+      "title": "知乎：ai漫剧真能赚钱吗？一个带课程导流的回答",
+      "url": "https://www.zhihu.com/question/1990728643920561512/answer/2015570176066736949",
+      "published": null,
+      "evidence_type": "community_answer_promotional",
+      "access_level": "opened_full_answer_no_comment_threads",
+      "observations": [
+        "真实可读回答同时宣称接单稳定收益、引用未提供账目的收益数字，并引导至课程。",
+        "回答也提到剧本、投流、API费用和同质化。"
+      ],
+      "limitations": [
+        "作者身份及收益无法核实，存在卖课激励；5%赚钱、最低9000等数字全部排除。",
+        "问题浏览量和回答数不能证明回复质量或市场代表性，未读取12条评论正文。"
+      ],
+      "how_to_use": "当作信息识别反例：查来源、合同、成本和推广利益关系，不能照抄赚钱建议。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM14",
+      "title": "Reddit中文讨论：AI漫剧制作",
+      "url": "https://www.reddit.com/r/China_irl/comments/1qx7ktg/ai%E6%BC%AB%E5%89%A7%E5%88%B6%E4%BD%9C/",
+      "published": "2026-02-06",
+      "evidence_type": "actual_public_comment_small_sample",
+      "access_level": "opened_post_and_one_comment",
+      "observations": [
+        "帖子提问制作痛点，实际读取到一条回复把音乐列为痛点。"
+      ],
+      "limitations": [
+        "只有一个可见评论，不是活跃制作群调查；身份未核实，Reddit中文用户也不代表中国平台大众。"
+      ],
+      "how_to_use": "只生成音频盲听测试假设，不能推导音乐比画面更重要或行业频率。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM15",
+      "title": "都市快报对点众、编剧及观众的采访",
+      "url": "https://hzdaily.hangzhou.com.cn/dskb/2026/03/13/article_detail_2_20260313A041.html",
+      "published": "2026-03-13",
+      "evidence_type": "journalist_interviews",
+      "access_level": "opened_full",
+      "observations": [
+        "点众负责人强调提高作品质量下限；报道呈现观众借短剧释放工作压力的动机。",
+        "文中快至3天的拍摄周期明确排除前期筹备，不能等同全项目周期。"
+      ],
+      "limitations": [
+        "记者选择的少数采访；未展示采访抽样和公司账目。",
+        "文中3月监管分类已被后来规定更新，法律部分不作当前依据。"
+      ],
+      "how_to_use": "工程计划区分筹备、拍摄/生成、后期、审核等待；观众动机作为访谈问题而非人口结论。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM16",
+      "title": "广电总局令第16号《微短剧发展管理办法》",
+      "url": "https://www.nrta.gov.cn/art/2026/7/31/art_1588_73827.html",
+      "published": "2026-07-31",
+      "evidence_type": "official_regulation",
+      "access_level": "opened_full",
+      "observations": [
+        "自2026-09-01施行；第17条区分类别的许可、批准文件或平台审核编号要求。",
+        "第34条要求AI生成、制作微短剧依有关规定在每集明显位置添加提示标识；第33条涉及非独播三类剧各平台编号。"
+      ],
+      "limitations": [
+        "具体项目类别与平台细则仍需按发布时材料判断；不能把正文未列金额补成全国通用门槛。"
+      ],
+      "how_to_use": "权利与发布检查成为每个版本的交付门槛；平台迁移需要重新核验，不复制旧编号。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM17",
+      "title": "人工智能生成合成内容标识办法",
+      "url": "https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
+      "published": "2025-03-14",
+      "evidence_type": "official_regulation",
+      "access_level": "opened_full",
+      "observations": [
+        "自2025-09-01施行；第10条要求用户发布生成合成内容主动声明并使用平台标识功能。",
+        "规定不得恶意删除、篡改、伪造、隐匿规定标识。"
+      ],
+      "limitations": [
+        "服务提供者与发布用户义务不同；不能把所有模型备案义务都转给普通创作者。"
+      ],
+      "how_to_use": "导出及发布保留标识字段/文件版本，检查平台声明和成片提示。",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "CM18",
+      "title": "T/CEAP 1—2025微短剧创作生产及内容审核技术规范与状态冲突",
+      "url": "https://www.tvoao.com/userfiles/files/%E3%80%8A%E5%BE%AE%E7%9F%AD%E5%89%A7%E5%88%9B%E4%BD%9C%E7%94%9F%E4%BA%A7%E5%8F%8A%E5%86%85%E5%AE%B9%E5%AE%A1%E6%A0%B8%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83%E3%80%8B.pdf",
+      "published": "2025-10-20",
+      "evidence_type": "historical_group_standard_status_conflict",
+      "access_level": "opened_pdf_and_catalog",
+      "observations": [
+        "22页公开PDF封面写中国民族影视艺术发展促进会发布，内容覆盖策划、拍摄、后期、审核和归档。",
+        "国家标准馆检索页将相同编号标为作废，PDF旧分类金额也与2026规则有差异。"
+      ],
+      "limitations": [
+        "不是国家强制标准；未确认作废日期和替代文本；仅作历史标准化先例。"
+      ],
+      "how_to_use": "教材不得声称全球首次制定短剧标准。建立规范性/资料性分层和版本失效机制。",
+      "auxiliary_urls": [
+        "https://www.ndls.org.cn/standard/index?draftman=%E9%9F%A6%E7%8A%81"
+      ],
+      "accessed": "2026-10-13"
+    }
+  ],
+  "coverage_limits": [
+    "小红书、微信内部群、B站评论未取得足够可核验正文；不声称读取了这些社区评论。",
+    "未购买行业库、未登入厂牌商务后台、未获取作品净利润、有效结算播放或投放成本。",
+    "腾讯火龙官方协议open失败，品牌工作方式主要由CM09/CM10和腾讯演讲辅助，具体合同未知。",
+    "不是全网穷尽或最顶尖品牌排名。"
+  ],
+  "search_families": [
+    "平台官方合作政策",
+    "2026市场数据与公司财报",
+    "具名制作团队访谈",
+    "知乎/Bilibili/小宇宙/中文Reddit反馈",
+    "现行监管与历史团体标准"
+  ],
+  "rejected_or_downweighted": [
+    {
+      "url": "https://www.bilibili.com/video/BV1KCgF6gEKs/",
+      "reason": "检索可见教程目录，open失败；不能声称已看视频或评论。"
+    },
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_33101093",
+      "reason": "保留流程采访，排除未经验证的全行业1%爆款率及98%免费IP比例。"
+    },
+    {
+      "url": "https://www.juduanduan.com/2026/0925/5443.shtml",
+      "reason": "政策宣传未追到官方全文，数值不纳入收益模型。"
+    }
+  ]
+}

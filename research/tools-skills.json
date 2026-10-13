@@ -1,0 +1,443 @@
+{
+  "schema_version": "1.0",
+  "scope": "AI短剧制作工具、现成Agent Skills与公开社区失败反馈；非穷尽全网",
+  "as_of": "2026-10-13",
+  "methods": [
+    "中文和英文关键词分组检索",
+    "优先官网帮助/文档/许可、维护者原始仓库与发布记录",
+    "社区原帖只作问题与假设来源，不代表市场整体",
+    "未安装、运行、付费、注册或连接外部生成服务"
+  ],
+  "sources": [
+    {
+      "accessed": "2026-10-13",
+      "id": "TS01",
+      "title": "Drama Skills：11个短剧/漫剧 Agent Skills",
+      "url": "https://github.com/zenstory-ai/drama-skills",
+      "published": null,
+      "evidence_type": "maintainer_repository",
+      "observations": [
+        "仓库README与skills目录可见11个技能，覆盖原著分析、开发、写作、资产、图片提示、分镜、视频提示、生产、剪辑、审查和总控。",
+        "仓库显示MIT许可证，含测试、示例和CHANGELOG；不是单一SaaS。"
+      ],
+      "limitations": [
+        "README的工作室项目量、样片成本和效果是维护者自述，未独立复现。",
+        "开源技能许可不覆盖原著、模型、字体、音乐和配音素材的商业权利。"
+      ],
+      "how_to_use": "优先评估作为制作文件与交接契约参考；先读技能、锁定版本、做离线样例审核，再决定采用哪些模块。",
+      "related_urls": [
+        "https://github.com/zenstory-ai/drama-skills/tree/main/skills",
+        "https://github.com/zenstory-ai/drama-skills/blob/main/LICENSE"
+      ],
+      "maintenance": "可见CHANGELOG最新标注0.8.1，2026-09-28（见TS22）；不是对最后提交日期的证明。",
+      "license": "MIT；第三方生成服务与输入素材另核。",
+      "skill_status": "实际Agent Skills集合；本次未安装或运行"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS02",
+      "title": "Dramake：文字转AI短剧的Agent Skill",
+      "url": "https://github.com/xixihhhh/ai-short-drama-skill",
+      "published": null,
+      "evidence_type": "maintainer_repository",
+      "observations": [
+        "主技能位于skills/dramake/SKILL.md；仓库为MIT，最新发布入口解析到v0.3.3。",
+        "提供连续性、镜头、声音、成本、生成任务、空间及剪辑等模板；README明确兼容Skill并不代表已连接视频生成能力。"
+      ],
+      "limitations": [
+        "兼容和测试通过是维护者自述，未执行验证。",
+        "当前页面抽取未给出可靠最新提交/发布绝对日期；不能用爬取时间当维护时间。"
+      ],
+      "how_to_use": "作为统一制作台账候选，取长于预算与镜头状态管理；需要补真实观众反馈、授权与市场实验。",
+      "related_urls": [
+        "https://github.com/xixihhhh/ai-short-drama-skill/blob/main/skills/dramake/SKILL.md",
+        "https://github.com/xixihhhh/ai-short-drama-skill/releases/tag/v0.3.3"
+      ],
+      "maintenance": "可见v0.3.3；精确日期未验证。",
+      "license": "MIT",
+      "skill_status": "实际Agent Skill；本次未安装或运行"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS03",
+      "title": "Short Drama Agent：单集转连续性生产文件",
+      "url": "https://github.com/MrMO0802/short-drama-agent/blob/main/SKILL.md",
+      "published": null,
+      "evidence_type": "maintainer_skill_source",
+      "observations": [
+        "SKILL.md要求提取角色/场景/道具，建立场景方位、物品状态、线索揭示与因果连续性表，逐镜生成并审阅。",
+        "把2–4秒任务、每镜一个动作写成强规则；并把画面中文字/UI留给后期。"
+      ],
+      "limitations": [
+        "2–4秒和单动作是该实现的设计选择，没有证明适用于所有叙事、镜头、模型。",
+        "仓库本次未核实明确许可证和最新提交时间，不宜直接复制再分发。"
+      ],
+      "how_to_use": "借鉴状态转移和依赖表；镜长和动作数量降级为可测试默认值，按对白长度、情绪与模型能力决定。",
+      "related_urls": [
+        "https://github.com/MrMO0802/short-drama-agent"
+      ],
+      "maintenance": "仓库可见4次提交但日期未验证；不能据此推断成熟度。",
+      "license": "本次未确认",
+      "skill_status": "实际Agent Skill；本次只阅读"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS04",
+      "title": "Remotion 官方 Agent Skills",
+      "url": "https://www.remotion.dev/docs/ai/skills",
+      "published": "2026-10-12",
+      "evidence_type": "official_documentation",
+      "observations": [
+        "官方维护用于创建、排版、字幕、渲染、预览和多媒体检查的Agent Skills，适用Codex等。",
+        "角色是编程式视频装配与图文层，不能自动替代分镜叙事和演员表演生成。"
+      ],
+      "limitations": [
+        "技能文档更新日期不保证所有运行依赖在当前机器可用。",
+        "不以安装技能等同于已获得所有媒体生成能力。"
+      ],
+      "how_to_use": "用于精确中文字、数据/手机UI、片头片尾、字幕、多版本画幅和可复现时间线。",
+      "related_urls": [
+        "https://github.com/remotion-dev/skills",
+        "https://www.remotion.dev/docs/ai/plugins"
+      ],
+      "maintenance": "官方页面Last updated Oct12,2026。",
+      "license": "框架使用条件另见TS05。",
+      "skill_status": "官方实际Agent Skills"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS05",
+      "title": "Remotion License & Pricing",
+      "url": "https://www.remotion.dev/docs/license/pricing",
+      "published": null,
+      "evidence_type": "official_license_pricing",
+      "observations": [
+        "页面为个人及不超过3人的公司提供Free License，商业使用仍受条款约束；4人及以上组织/协作需要对应Company License。",
+        "区分手工创作席位和自动化渲染用途。"
+      ],
+      "limitations": [
+        "许可与价格会更新；部署前按组织人数、用途重新核对。",
+        "免框架许可费不等于免模型、云渲染或素材费用。"
+      ],
+      "how_to_use": "工程预算和上线检查中记录组织规模、许可方案和核对日期。"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS06",
+      "title": "ComfyUI 官方仓库",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "published": null,
+      "evidence_type": "official_repository",
+      "observations": [
+        "GPL-3.0的节点工作流引擎，可复用图像、视频、音频工作流；README列本地模型和收费伙伴API节点。",
+        "可用于保存图、输入参数与局部重跑；它本身不是短剧故事方法论。"
+      ],
+      "limitations": [
+        "模型权重和第三方节点各有许可证，不能由ComfyUI GPL替代。",
+        "厂商最低显存描述不等于本项目指定镜头的吞吐量；未本机基准测试。"
+      ],
+      "how_to_use": "需要本地可控生成时固定工作流JSON、模型哈希、节点版本和素材依赖；先小样验证。",
+      "related_urls": [
+        "https://docs.comfy.org"
+      ],
+      "maintenance": "本次可访问；最新release页抓取失败，未声称精确最新版。",
+      "license": "ComfyUI GPL-3.0；模型与节点单独审核。",
+      "skill_status": "工作流引擎，非SKILL.md"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS07",
+      "title": "Runway reference media / Gen-4 References",
+      "url": "https://help.runwayml.com/hc/en-us/articles/52963720640275-Using-reference-media-to-guide-your-generations",
+      "published": null,
+      "evidence_type": "official_documentation",
+      "observations": [
+        "官方支持将图像、视频、音频作为参考引导生成；学院提供角色与地点一致性教程。"
+      ],
+      "limitations": [
+        "支持参考不意味着身份、服装、视线或物品状态每次正确。",
+        "不同模型接受的参考类型不同，需检查当次入口。"
+      ],
+      "how_to_use": "作为角色/场景参考生成候选；以同一对白与参考资产做小规模合格率比较。",
+      "related_urls": [
+        "https://academy.runwayml.com/tutorial/gen-4-references"
+      ]
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS08",
+      "title": "Runway 商用与失败任务说明",
+      "url": "https://help.runwayml.com/hc/en-us/articles/21668707517587-Can-I-use-the-content-I-made-in-Runway-for-commercial-purposes",
+      "published": null,
+      "evidence_type": "official_policy_and_api",
+      "observations": [
+        "官方说明用户可商业使用生成内容，Runway本身不施加非商业限制。",
+        "网页帮助称生成报错会返还积分；API文档另列SAFETY.INPUT类失败不退款。"
+      ],
+      "limitations": [
+        "用户与Runway之间的权利安排不保证输入素材第三方权利清洁。",
+        "审美不满意的完成任务不能混同系统报错；网页和API规则不可相互套用。"
+      ],
+      "how_to_use": "分别记服务错误、输入拒绝、完成但不合格三类结果；把不合格重试纳入成片成本。",
+      "related_urls": [
+        "https://help.runwayml.com/hc/en-us/articles/32880432736659-Why-am-I-receiving-errors-when-trying-to-generate",
+        "https://docs.dev.runwayml.com/errors/task-failures/"
+      ]
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS09",
+      "title": "快手官方：可灵3.0系列模型发布",
+      "url": "https://ir.kuaishou.com/zh-hant/news-releases/news-release-details/keling30xiliemoxingquanmianshangxian-0",
+      "published": "2026-02-05",
+      "evidence_type": "official_product_announcement",
+      "observations": [
+        "公告列出最长15秒、多镜头、原生多语言音频、参考图/视频与Omni主体/声音参考能力。",
+        "适合纳入中文对白、双人对话和主体连续性候选测试。"
+      ],
+      "limitations": [
+        "一致性与专业级效果是厂商能力描述，不是本剧合格率证据。",
+        "发布时访问层级不能代表今天账号、地区及API可用性；本次未确认具体商业套餐许可。"
+      ],
+      "how_to_use": "采用模型/地区/入口/计划四项能力登记；用说话者绑定、口型和物品状态验收而非只看画面美感。"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS10",
+      "title": "字节跳动 Seedance 官方模型页",
+      "url": "https://seed.bytedance.com/en/seedance2_0/",
+      "published": null,
+      "evidence_type": "official_model_page",
+      "observations": [
+        "Seedance2.0官方模型说明多模态参考、音视频联合生成与编辑能力。",
+        "官方域名是seed.bytedance.com；同名第三方网站与GitHub账号不能自动认定为官方。"
+      ],
+      "limitations": [
+        "研究/展示页不等于账号已获使用权限，也不能代表即梦/方舟/海外入口功能相同。",
+        "没有据此声称它是当前最新或全场景最优模型。"
+      ],
+      "how_to_use": "模型能力从官方页起查，再落到实际部署入口的参数与条款。",
+      "related_urls": [
+        "https://seed.bytedance.com/zh/blog/seedance-2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83"
+      ]
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS11",
+      "title": "火山方舟创建视频生成任务API",
+      "url": "https://docs.volcengine.com/docs/ark/create-video-generation-task-api?lang=zh",
+      "published": null,
+      "evidence_type": "official_api_documentation",
+      "observations": [
+        "API按模型区分输入、比例、时长、参考和水印选项；当前文档已有Seedance2.5及2.0系列条目。",
+        "图生视频比例不一致可能触发居中裁剪，因此人物/字幕安全区要前置验证。"
+      ],
+      "limitations": [
+        "文档列模型不证明用户账号/地区有权限。",
+        "即梦UI流程不能直接套用API参数；本次未读取完整服务协议，不作商用许可承诺。"
+      ],
+      "how_to_use": "保存准确model id、请求参数、任务ID、账单与输出；避免中断后直接重复提交收费任务。",
+      "related_urls": [
+        "https://docs.volcengine.com/docs/ark/video-generation-tutorial?lang=en"
+      ]
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS12",
+      "title": "Luma Ray3 Modify 与授权说明",
+      "url": "https://lumalabs.ai/learning-hub/ray3-modify-user-guide",
+      "published": "2025-12-12",
+      "evidence_type": "official_documentation",
+      "observations": [
+        "Modify可结合原视频、角色参考和关键帧控制变化，适合保留表演与动作的方案。",
+        "授权指南区分商业套餐和非商业套餐。"
+      ],
+      "limitations": [
+        "本指南称结束参考可能取输入视频第5秒帧，不应当作任意长度最终帧的通则。",
+        "旧指南套餐名称与当前定价页可能不同，采用前需核对当前订单和条款；未证明所有变化完全无漂移。"
+      ],
+      "how_to_use": "有自摄/已授权表演素材时纳入候选；记录输入输出身份与时长，并保存当期商业许可。",
+      "related_urls": [
+        "https://lumalabs.ai/learning-hub/licensing",
+        "https://lumalabs.ai/legal/terms-of-service",
+        "https://lumalabs.ai/pricing"
+      ]
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS13",
+      "title": "Google Flow 官方模型与功能矩阵",
+      "url": "https://support.google.com/flow/answer/16352836?hl=en",
+      "published": null,
+      "evidence_type": "official_documentation",
+      "observations": [
+        "Flow按不同模型列文生视频、首帧/首尾帧、参考素材、延长、比例和时长支持情况，并提醒生成前检查活动模型及积分。"
+      ],
+      "limitations": [
+        "不能把Veo某型号能力推广到Flow每个模型、账户和地区。",
+        "本次没有以功能页代替商业授权条款或确认账户权限。"
+      ],
+      "how_to_use": "测试前冻结模型与输入模式；升级后重新测试关键镜头，不沿用旧模型成绩。",
+      "related_urls": [
+        "https://support.google.com/flow/answer/16935718?hl=en-0"
+      ]
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS14",
+      "title": "OpenAI 官方：Sora discontinuation",
+      "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+      "published": null,
+      "evidence_type": "official_service_status",
+      "observations": [
+        "帮助页写明网页/App于2026-04-26停止，API停止日期为2026-09-24。",
+        "截至本次2026-10-13研究，应从新项目可用供应商名单剔除Sora。"
+      ],
+      "limitations": [
+        "页面保留API将停用的将来时，但列明日期已过去；本次未调用API实测。",
+        "旧教程和第三方聚合平台宣传不能推翻官方服务时间线。"
+      ],
+      "how_to_use": "教材保留历史案例；生产工具注册表记为退役，不让智能体按旧教程继续推荐或提交。"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS15",
+      "title": "ElevenLabs 官方内容商用规则",
+      "url": "https://help.elevenlabs.io/hc/en-us/articles/13313564601361-Can-I-publish-the-content-I-generate-on-the-platform",
+      "published": null,
+      "evidence_type": "official_license_policy",
+      "observations": [
+        "官方帮助区分免费期与付费期生成内容；付费计划商用仍要求输入权利等条件，Beta服务另有限制。",
+        "可作为角色配音、音色一致性与多语言版本工具候选。"
+      ],
+      "limitations": [
+        "买会员不能自动使之前免费期生成内容获得商用许可。",
+        "声音克隆的同意、声库的具体条件与素材权利另核；不能只凭订阅推断。"
+      ],
+      "how_to_use": "每个voice_id关联来源、同意/授权、生成时套餐、语言和验收样音；锁对白后再对口型。",
+      "related_urls": [
+        "https://help.elevenlabs.io/hc/en-us/articles/13313778519057-Are-there-any-restrictions-on-what-voices-I-can-upload-for-voice-cloning",
+        "https://elevenlabs.io/terms-of-use"
+      ]
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS16",
+      "title": "Blackmagic Design 官方 DaVinci Resolve 培训",
+      "url": "https://www.blackmagicdesign.com/au/products/davinciresolve/training",
+      "published": null,
+      "evidence_type": "official_training",
+      "observations": [
+        "官方提供剪辑、调色、Fairlight声音后期与练习素材课程，支持把生成片段变成可交付作品。"
+      ],
+      "limitations": [
+        "课程和书籍是现有影视后期知识，并非我们新发明的原则。",
+        "软件免费版/Studio功能需分别核对，未在用户机器安装测试。"
+      ],
+      "how_to_use": "教材后期卷引用其分轨、对白清理、空间声音、响度、色彩与交付训练，再增补AI素材特有的连续性检验。",
+      "related_urls": [
+        "https://documents.blackmagicdesign.com/UserManuals/DaVinciResolveFairlightAudioPost.pdf"
+      ]
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS17",
+      "title": "Adobe Premiere Generative Extend FAQ",
+      "url": "https://helpx.adobe.com/nz/premiere-pro/using/generative-extend-faq.html",
+      "published": "2026-05-25",
+      "evidence_type": "official_documentation",
+      "observations": [
+        "官方FAQ列横竖画幅、分辨率、帧率和位深条件；Extend用于修补片段头尾剪辑余量。",
+        "页面说明提交的片段用于请求的延展，不用于改进该AI。"
+      ],
+      "limitations": [
+        "不能由延展功能推断它会修复人物因果、对白内容或整段表演。",
+        "不同版本和积分方案需当次核实。"
+      ],
+      "how_to_use": "剪辑中先判断补拍、重新生成、剪切或延展哪个更合适；记录合成新增帧的起止位置。"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS18",
+      "title": "社区案例：12分钟AI短片的角色、声音、场景连续性经验与反例",
+      "url": "https://www.reddit.com/r/aifilmmaking/comments/1w484j8/what_i_learned_about_character_consistency_while/",
+      "published": "2026-09-01",
+      "evidence_type": "community_creator_self_report",
+      "observations": [
+        "作者自述用角色参考表处理一致性、用声音转换保持角色音色，并强调先静帧测试。",
+        "评论指出干配音缺场景混响、地点大图会压过近景构图、尾帧续接仍可能色偏；另有评论建议不同模型使用各自提示语法。"
+      ],
+      "limitations": [
+        "单个创作者和评论者自述；未下载原片逐帧复验，无随机对照，不能当成通用成功率。",
+        "评论中的方法与产品推荐可能存在选择偏差。"
+      ],
+      "how_to_use": "转成三个可测问题：角色相似度与服装状态、声音空间匹配、参考图对构图的干扰；保留失败样例。"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS19",
+      "title": "社区反馈：Runway反复生成、积分支出与期望落差",
+      "url": "https://www.reddit.com/r/runwayml/comments/1hjuqft/is_runway_ai_worth_it/",
+      "published": null,
+      "evidence_type": "community_discussion",
+      "observations": [
+        "2026-02-12、07-28等评论报告参考结构被改动、反复重试消耗积分及完成结果不满意。",
+        "这些内容揭示成本评估应以验收后的成片秒数作分母。"
+      ],
+      "limitations": [
+        "原帖早于当前产品，评论跨版本；不采纳其对品牌的辱骂或诈骗定性。",
+        "没有发票、全量任务及参数，不能推算平台整体失败率或现价。"
+      ],
+      "how_to_use": "建立每个镜头尝试次数、扣费、返还、合格秒数和人工修改分钟台账；与TS08官方退款规则区分。"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS20",
+      "title": "社区反馈：Kling口型同步时间窗口不匹配",
+      "url": "https://www.reddit.com/r/KlingAI_Videos/comments/1l5czyb/who_the_f_suggested_a_changed_to_lip_sync/",
+      "published": "2025-06-07",
+      "evidence_type": "community_issue_report",
+      "observations": [
+        "原帖报告视频可对口型区间与用户音轨长度不匹配，需要额外裁切；2026-04-14仍有评论报告后段口型偏差。"
+      ],
+      "limitations": [
+        "历史界面/模型的个案，不证明当前3.0仍有相同缺陷。",
+        "缺少可复现原始资产，不能据此给软件质量排名。"
+      ],
+      "how_to_use": "每次工具升级回归测试短对白、长对白、双说话者和静默反应；验证有效发声区间而非只对总时长。"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS21",
+      "title": "ComfyUI issue12651：音频解码/截断缺陷与修复链",
+      "url": "https://github.com/Comfy-Org/ComfyUI/issues/12651",
+      "published": "2026-02-26",
+      "evidence_type": "reproducible_issue_and_maintenance",
+      "observations": [
+        "报告附工作流、webm输入、Opus错误，出现无音频或短碎片。",
+        "页面显示关联修复PR12652，2026-03-17作者确认合并并关闭。"
+      ],
+      "limitations": [
+        "这是已关闭历史缺陷，不能把它写成当前必然存在的问题。",
+        "本次未拉取对应旧/新版本复现。"
+      ],
+      "how_to_use": "将保存原始输入、最小工作流、错误日志、修复版本和回归用例作为问题闭环标准。"
+    },
+    {
+      "accessed": "2026-10-13",
+      "id": "TS22",
+      "title": "Drama Skills更新日志：规则收缩、样本边界与生产故障修复",
+      "url": "https://github.com/zenstory-ai/drama-skills/blob/main/CHANGELOG.md",
+      "published": "2026-09-28",
+      "evidence_type": "maintainer_change_log",
+      "observations": [
+        "0.8.1强调反应镜/接触动作来自特定模型的小样本，不能跨模型外推。",
+        "0.7.1删除强制单人反应镜等过度规则；0.7.0记录中断任务ID取回、字幕缩放/时序漂移与重出素材后字幕失效的修正。"
+      ],
+      "limitations": [
+        "维护者生产观察不是独立研究；不能直接把其默认时长或阈值升格为行业标准。"
+      ],
+      "how_to_use": "教材采用分级规则：数据/依赖不变量、需人工判定的约束、可覆盖工艺默认、审美选择；每次修正规则保留原因、版本与测试。"
+    }
+  ]
+}

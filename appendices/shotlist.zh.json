@@ -1,0 +1,44 @@
+{
+  "schema_version":"0.1",
+  "project":"退回重做",
+  "status":"paper_preproduction",
+  "rights_status":"original_teaching_case",
+  "video_generated":false,
+  "audience_tested":false,
+  "aspect_ratio":"9:16",
+  "characters":["C01","C02","C03"],
+  "characters_semantics":"画面可见人物；画外说话者在声音设计中另记",
+  "assets":["P01","P02","P03","P04","P05","P06"],
+  "asset_state_definitions":{
+    "P02":{"initial":"pending","states":{"pending":"v8，11月18日，待客户复核","approved":"v8，11月18日，客户已确认"},"transition_shot":"E03-S04"},
+    "P06":{"initial":"plan","states":{"plan":"补救计划，职责签字栏为空","client_approved":"记录系统客户确认，职责栏待补签","completed":"三项职责签字齐全，记录已完成的系统确认"},"transition_shots":["E03-S04","E03-S06"]}
+  },
+  "episodes":[
+    {"id":"E01","target_seconds":60,"shots":[
+      {"id":"E01-S01","start":0,"end":6,"characters":[],"assets":["P01","P03"],"purpose":"交代错日期与责任压力","text_overlay":"11月8日","state_out":"责任单未签","qa":"文字清晰；两份纸不互相遮挡"},
+      {"id":"E01-S02","start":6,"end":14,"characters":["C01","C02"],"assets":["P03"],"purpose":"主管催签，陆乔迟疑","state_out":"笔拿起但未落下","qa":"左右位置保持；签字栏为空"},
+      {"id":"E01-S03","start":14,"end":23,"characters":["C01"],"assets":["P01"],"purpose":"提出日期不一致","state_out":"陆乔提出核对理由","qa":"台词十八号与旧样张八号区分"},
+      {"id":"E01-S04","start":23,"end":33,"characters":["C02"],"assets":[],"purpose":"主管用印厂文件反驳","state_out":"尚未核对版本","qa":"不提前展示全部原因"},
+      {"id":"E01-S05","start":33,"end":42,"characters":["C01"],"assets":["P03"],"purpose":"主动请求共同核对","state_out":"笔已盖好；责任单回桌中间","qa":"动作连续，签字栏仍空"},
+      {"id":"E01-S06","start":42,"end":52,"characters":[],"assets":["P02","P05"],"asset_states_in":{"P02":"pending"},"asset_states_out":{"P02":"pending"},"purpose":"揭示v8与v7差异","text_overlay":"当前提交 v8 待复核 / 送印 v7","state_out":"版本差异已向观众呈现","qa":"后期叠字准确可读"},
+      {"id":"E01-S07","start":52,"end":60,"characters":["C01","C02"],"assets":[],"purpose":"提出旧版如何送印的问题","state_out":"韩峥开始重新判断","qa":"反应跟随台词，不能提前表演震惊"}
+    ]},
+    {"id":"E02","target_seconds":60,"shots":[
+      {"id":"E02-S01","start":0,"end":7,"characters":["C01","C02"],"assets":["P03"],"purpose":"延续核对的主动权","state_out":"主管收回责任单一点","qa":"不重置已知版本差异"},
+      {"id":"E02-S02","start":7,"end":16,"characters":["C02"],"assets":[],"purpose":"提出旧版已批准的辩解","state_out":"争议转向审批时序","qa":"台词符合周一v7已批事实"},
+      {"id":"E02-S03","start":16,"end":27,"characters":["C01"],"assets":["P04"],"purpose":"展示改期及再次复核要求","text_overlay":"09:00 改为11月18日 先改稿，我看过再印","state_out":"新版须复核明确","qa":"仅使用虚构共享群记录"},
+      {"id":"E02-S04","start":27,"end":37,"characters":["C02"],"assets":["P05"],"purpose":"主管说明用了旧链接","state_out":"原因部分澄清","qa":"声音与表情发生可见变化"},
+      {"id":"E02-S05","start":37,"end":46,"characters":["C03"],"assets":["P01"],"purpose":"客户进入并确认目的","state_out":"三方在场","qa":"门的位置保持，先敲门后进入"},
+      {"id":"E02-S06","start":46,"end":54,"characters":["C01","C03"],"assets":["P01","P02"],"asset_states_in":{"P02":"pending"},"asset_states_out":{"P02":"pending"},"purpose":"建立共同核对","state_out":"两版同时可比较","qa":"日期对应关系不能互换"},
+      {"id":"E02-S07","start":54,"end":60,"characters":["C03","C02"],"assets":["P03"],"purpose":"客户确认尚未批准新版","state_out":"韩峥合上未签责任单","qa":"保持说话者与反应者区分"}
+    ]},
+    {"id":"E03","target_seconds":60,"shots":[
+      {"id":"E03-S01","start":0,"end":9,"characters":["C02","C01"],"assets":["P03"],"purpose":"撤回先签责任单要求","state_out":"责任单反扣，未签","qa":"承认旧链接与未复核，两项事实齐全"},
+      {"id":"E03-S02","start":9,"end":19,"characters":["C03"],"assets":[],"purpose":"转向补救与交付","state_out":"三人共同解决问题","qa":"不让追责挤掉实际后果"},
+      {"id":"E03-S03","start":19,"end":30,"characters":["C01","C02","C03"],"assets":["P06"],"asset_states_in":{"P06":"plan"},"asset_states_out":{"P06":"plan"},"purpose":"提出两项补救行动","text_overlay":"停止旧版续印 / 新版确认后送印","state_out":"补救步骤明确","qa":"三人可见，陆乔说话，另两人倾听；信息不超出角色已知事实"},
+      {"id":"E03-S04","start":30,"end":41,"characters":["C02","C03"],"assets":["P02","P06"],"asset_states_in":{"P02":"pending","P06":"plan"},"asset_states_out":{"P02":"approved","P06":"client_approved"},"purpose":"执行暂停与新版确认","state_out":"新版已由客户确认","qa":"可拆插入镜；不同时强制双人口型；准确切换审批标签"},
+      {"id":"E03-S05","start":41,"end":52,"characters":["C03","C01"],"assets":["P01"],"purpose":"保留损失和重排交付的代价","state_out":"旧样张待盘点","qa":"不暗示全部损失自动消失"},
+      {"id":"E03-S06","start":52,"end":60,"characters":["C01","C02","C03"],"assets":["P06"],"asset_states_in":{"P06":"client_approved"},"asset_states_out":{"P06":"completed"},"purpose":"兑现职责清晰的结尾","text_overlay":"制稿 / 客户确认 / 送印","state_out":"新版确认表完成；旧责任单未签","qa":"签字发生在新表，记录此前的系统确认；动作可分层合成"}
+    ]}
+  ]
+}

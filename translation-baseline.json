@@ -1,0 +1,92 @@
+[
+  {
+    "id": "01-market-research",
+    "source": "manuscript/zh/01-market-research.md",
+    "translation": "manuscript/en/01-market-research.md",
+    "source_sha256": "e466b3c8ebb1c450fc9f779605bde302f68f88ae5c0c482bae9d70944fa3e980",
+    "translation_sha256": "06ff2f2a9e5b6d4f30c64abfbb2b0ec20bb795cbecffe05641059bfda9f41133",
+    "hash_normalization": "UTF-8 without BOM; LF newlines",
+    "review_level": "AI-assisted draft; structural/citation checks and selective cross-review; no professional human translation review",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "02-story-adaptation",
+    "source": "manuscript/zh/02-story-adaptation.md",
+    "translation": "manuscript/en/02-story-adaptation.md",
+    "source_sha256": "c46fa89f5c1160d0159ba971cb22e7b633cdce85804d1bfff2d5a7dda023f411",
+    "translation_sha256": "2b2d66a126502db31d5e1a54580e0d3b7ce4742f8b43488a77f9b61643c1509f",
+    "hash_normalization": "UTF-8 without BOM; LF newlines",
+    "review_level": "AI-assisted draft; structural/citation checks and selective cross-review; no professional human translation review",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "03-directing-audiovisual",
+    "source": "manuscript/zh/03-directing-audiovisual.md",
+    "translation": "manuscript/en/03-directing-audiovisual.md",
+    "source_sha256": "90877c93a7e74bf6f421ab517b4e7cb8ec86b4e721f10f23e3456404f8ef34c2",
+    "translation_sha256": "f3e94c6c3bab35329586d704862999adf01497c60348b68e21d2a0bf70dba032",
+    "hash_normalization": "UTF-8 without BOM; LF newlines",
+    "review_level": "AI-assisted draft; structural/citation checks and selective cross-review; no professional human translation review",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "04-production-engineering",
+    "source": "manuscript/zh/04-production-engineering.md",
+    "translation": "manuscript/en/04-production-engineering.md",
+    "source_sha256": "10ce389a51256fbb7b3a0985f43b2ad3235a292fd0ac07f1b8a81e5cbbace660",
+    "translation_sha256": "497a1e36485d98faaed594dc8f079091b6d6af8bc434bcf092cc6e8552ec6f94",
+    "hash_normalization": "UTF-8 without BOM; LF newlines",
+    "review_level": "AI-assisted draft; structural/citation checks and selective cross-review; no professional human translation review",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "05-distribution-economics",
+    "source": "manuscript/zh/05-distribution-economics.md",
+    "translation": "manuscript/en/05-distribution-economics.md",
+    "source_sha256": "bf9cf30b1c5665525b74cfed1306c1092794f91dc2cfc36f04c4a73a0f461db4",
+    "translation_sha256": "67afa96e72816386ec9f06edd588c604d8776fb85df616da02a1eb3186b793b7",
+    "hash_normalization": "UTF-8 without BOM; LF newlines",
+    "review_level": "AI-assisted draft; structural/citation checks and selective cross-review; no professional human translation review",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "06-cases-standardization",
+    "source": "manuscript/zh/06-cases-standardization.md",
+    "translation": "manuscript/en/06-cases-standardization.md",
+    "source_sha256": "b67d1285defbf5747e02a8e61b49df4eb41deabc78507fac118b64735626be75",
+    "translation_sha256": "c92bccb372ab2315746743fbc2446c9d7b4e4704438c90f7cfbda5a1ad8f74bf",
+    "hash_normalization": "UTF-8 without BOM; LF newlines",
+    "review_level": "AI-assisted draft; structural/citation checks and selective cross-review; no professional human translation review",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "appendix-overview",
+    "source": "appendices/zh/overview.md",
+    "translation": "appendices/en/overview.md",
+    "source_sha256": "f1110f858ba3fa3a960134c6cf47c06b309190fb4136703708abf501ed123838",
+    "translation_sha256": "1796227cea60221c2747eec549f87319940f5a3cb264a68240c22f487ced7841",
+    "hash_normalization": "UTF-8 without BOM; LF newlines",
+    "review_level": "AI-assisted draft; structural/citation checks and selective cross-review; no professional human translation review",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "appendix-case",
+    "source": "appendices/zh/case.md",
+    "translation": "appendices/en/case.md",
+    "source_sha256": "ed87d62efc64db4f6050f59ca2aa039a5e36cc6880b4d45319cc45eedd73ccf3",
+    "translation_sha256": "5d5ac7eda66343439490b604c4ffe0bf2d12240426af921bac6d7f7db8f63747",
+    "hash_normalization": "UTF-8 without BOM; LF newlines",
+    "review_level": "AI-assisted draft; structural/citation checks and selective cross-review; no professional human translation review",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "appendix-standards",
+    "source": "appendices/zh/standards.md",
+    "translation": "appendices/en/standards.md",
+    "source_sha256": "e1fa348fd5b34531a6eab85b9de6729e527785e1eb113cbf952ba097ab86b4b9",
+    "translation_sha256": "9147239e291052181301582d87d2f7c38584130b0fd974f6ec145c0d64c1dc0a",
+    "hash_normalization": "UTF-8 without BOM; LF newlines",
+    "review_level": "AI-assisted draft; structural/citation checks and selective cross-review; no professional human translation review",
+    "date": "2026-10-13"
+  }
+]

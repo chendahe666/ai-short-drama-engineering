@@ -1,0 +1,86 @@
+{
+  "title": {
+    "zh": "AI短剧制作工程",
+    "en": "AI Short Drama Engineering"
+  },
+  "version": "0.1.0",
+  "date": "2026-10-13",
+  "repository": "chendahe666/ai-short-drama-engineering",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "books": [
+    {
+      "id": "01",
+      "slug": "01-market-research",
+      "title": {
+        "zh": "市场与研究方法",
+        "en": "Market and Research Methods"
+      }
+    },
+    {
+      "id": "02",
+      "slug": "02-story-adaptation",
+      "title": {
+        "zh": "故事设计与改编",
+        "en": "Story Design and Adaptation"
+      }
+    },
+    {
+      "id": "03",
+      "slug": "03-directing-audiovisual",
+      "title": {
+        "zh": "导演、视听与场景",
+        "en": "Directing, Audiovisual Language and Scenes"
+      }
+    },
+    {
+      "id": "04",
+      "slug": "04-production-engineering",
+      "title": {
+        "zh": "AI制作工程",
+        "en": "AI Production Engineering"
+      }
+    },
+    {
+      "id": "05",
+      "slug": "05-distribution-economics",
+      "title": {
+        "zh": "发行、盈利与实验",
+        "en": "Distribution, Economics and Experiments"
+      }
+    },
+    {
+      "id": "06",
+      "slug": "06-cases-standardization",
+      "title": {
+        "zh": "案例研究与标准化实践",
+        "en": "Case Studies and Standardization"
+      }
+    }
+  ],
+  "appendices": [
+    {
+      "slug": "overview",
+      "title": {
+        "zh": "学科蓝图",
+        "en": "Knowledge Map"
+      }
+    },
+    {
+      "slug": "case",
+      "title": {
+        "zh": "原创案例：退回重做",
+        "en": "Original Case: Back for Revision"
+      }
+    },
+    {
+      "slug": "standards",
+      "title": {
+        "zh": "20条标准草案",
+        "en": "20 Draft Standards"
+      }
+    }
+  ]
+}
